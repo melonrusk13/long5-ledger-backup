@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "nextEpoch": 45,
-  "lastWindowEnd": 1790568000,
+  "nextEpoch": 46,
+  "lastWindowEnd": 1790571600,
   "windows": {
     "1790424000-1790427600": {
       "start": 1790424000,
@@ -268,6 +268,13 @@
       "epoch": 44,
       "status": "skipped",
       "recordedAt": "2026-09-28T04:00:34.074Z"
+    },
+    "1790568000-1790571600": {
+      "start": 1790568000,
+      "end": 1790571600,
+      "epoch": 45,
+      "status": "skipped",
+      "recordedAt": "2026-09-28T05:00:33.139Z"
     }
   },
   "dust": {
@@ -779,9 +786,9 @@
       "MEME": "0",
       "BONER": "0",
       "MOO": "0",
-      "INU": "0"
+      "INU": "26586365588515490597"
     },
-    "xl5": "0"
+    "xl5": "36045055051135530910596"
   },
   "programStart": 0,
   "inFlight": null,
