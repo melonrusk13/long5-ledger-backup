@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "nextEpoch": 111,
-  "lastWindowEnd": 1790805600,
+  "nextEpoch": 112,
+  "lastWindowEnd": 1790809200,
   "windows": {
     "1790424000-1790427600": {
       "start": 1790424000,
@@ -730,6 +730,13 @@
       "epoch": 110,
       "status": "paid",
       "recordedAt": "2026-09-30T22:00:26.114Z"
+    },
+    "1790805600-1790809200": {
+      "start": 1790805600,
+      "end": 1790809200,
+      "epoch": 111,
+      "status": "skipped",
+      "recordedAt": "2026-09-30T23:00:25.741Z"
     }
   },
   "dust": {
@@ -1213,7 +1220,13 @@
     }
   },
   "feeCarryOver": {
-    "five": {},
+    "five": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0"
+    },
     "xl5": "0"
   },
   "programStart": 0,
