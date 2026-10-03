@@ -421,7 +421,8 @@
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
         "status": "sending",
         "attempts": 1,
-        "nonce": 23
+        "nonce": 23,
+        "txHash": "0xb23c02faf00311d10d64b32768439f68f736b37645f17e63156067e34a4356b7"
       }
     ],
     "collected": {
