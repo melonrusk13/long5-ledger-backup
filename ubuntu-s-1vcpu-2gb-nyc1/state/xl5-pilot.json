@@ -145,7 +145,7 @@
         "kind": "approve",
         "asset": "MEME",
         "amount": "22052199029396096610",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 33,
         "txHash": "0xd9396f04272dab3e00c6703a73c98e8b50c1238404f5aeba99243df2a532a72a"
@@ -196,7 +196,10 @@
           "312682877043714329",
           "302124316941622023"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 34,
+        "txHash": "0x728c719a989437a2588c77ee55e8dd631a198da291978c2678002a9bbb995c41"
       },
       {
         "id": "approve:MOO",
