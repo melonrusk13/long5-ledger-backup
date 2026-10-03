@@ -40,7 +40,8 @@
         "asset": "MEME",
         "status": "sending",
         "attempts": 1,
-        "nonce": 2
+        "nonce": 2,
+        "txHash": "0x7b39ba1bc9da000ba672a223902200786a1f96fbc2359b08dcdccf1c326f3f0a"
       },
       {
         "id": "claim:BONER",
