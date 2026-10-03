@@ -29,7 +29,7 @@
         "id": "claim:AI",
         "kind": "claim",
         "asset": "AI",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 1,
         "txHash": "0x402cb505b3ee244faf7c06a8fcbdec1dd617755d7bc452b236910c3e696709b0"
