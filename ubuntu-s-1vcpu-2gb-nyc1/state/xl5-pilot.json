@@ -282,7 +282,9 @@
           "1704411914972810611",
           "1646857961865085022"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 14
       },
       {
         "id": "approve:Xl5",
