@@ -84,7 +84,7 @@
         "kind": "approve",
         "asset": "AI",
         "amount": "2941302104410064210",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 31,
         "txHash": "0xf83503ab5a81653d40f8f13051ffa5ec9316fe52a13fd07d9bf1f79c2c177f8f"
@@ -135,14 +135,20 @@
           "41604054902745312",
           "47343499989071363"
         ],
-        "status": "planned"
+        "status": "done",
+        "attempts": 1,
+        "nonce": 32,
+        "txHash": "0x2039b9d04f8b4471709967f045df5358f828f76c87b0f93e97e13d3adbc003bb"
       },
       {
         "id": "approve:MEME",
         "kind": "approve",
         "asset": "MEME",
         "amount": "22052199029396096610",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 33,
+        "txHash": "0xd9396f04272dab3e00c6703a73c98e8b50c1238404f5aeba99243df2a532a72a"
       },
       {
         "id": "disperse:MEME:1",
