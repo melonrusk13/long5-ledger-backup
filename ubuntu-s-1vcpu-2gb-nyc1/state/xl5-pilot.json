@@ -196,7 +196,7 @@
           "312682877043714329",
           "302124316941622023"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 34,
         "txHash": "0x728c719a989437a2588c77ee55e8dd631a198da291978c2678002a9bbb995c41"
@@ -206,7 +206,10 @@
         "kind": "approve",
         "asset": "MOO",
         "amount": "23849183281642526524",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 35,
+        "txHash": "0xae0db1e0c234253fc555771f6c5ecdd3724fd89df21ad4654175510a65d8ca79"
       },
       {
         "id": "disperse:MOO:1",
