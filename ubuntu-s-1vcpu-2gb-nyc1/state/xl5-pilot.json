@@ -162,7 +162,8 @@
         ],
         "status": "sending",
         "attempts": 1,
-        "nonce": 10
+        "nonce": 10,
+        "txHash": "0x99f79e511924abf051c76f8090dd353c405213287796ad972ddb5761ec3c29b1"
       },
       {
         "id": "approve:MOO",
