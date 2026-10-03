@@ -267,7 +267,7 @@
         "kind": "approve",
         "asset": "INU",
         "amount": "13933615294404846511",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 37,
         "txHash": "0xb3ba104e714245c4344ebb29b557ffa560fdd046483690b4bf9d3cc406f83e77"
@@ -308,7 +308,10 @@
           "390482710708423827",
           "380234306240052245"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 38,
+        "txHash": "0xe7c4af8ede526d549ce236dadc678a50a1fd78db5f212b388c4293a0f1557ca9"
       },
       {
         "id": "approve:Xl5",
