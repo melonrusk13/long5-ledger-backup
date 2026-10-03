@@ -160,7 +160,7 @@
           "25119747219857361",
           "22423115408290048"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 10,
         "txHash": "0x99f79e511924abf051c76f8090dd353c405213287796ad972ddb5761ec3c29b1"
