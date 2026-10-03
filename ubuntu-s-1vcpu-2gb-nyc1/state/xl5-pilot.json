@@ -133,7 +133,9 @@
           "7671720584260246",
           "7393993105294698"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 8
       },
       {
         "id": "approve:BONER",
