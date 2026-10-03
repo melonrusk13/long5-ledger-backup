@@ -345,7 +345,8 @@
         ],
         "status": "sending",
         "attempts": 1,
-        "nonce": 16
+        "nonce": 16,
+        "txHash": "0x7ca58c2a5aaf15a8fd30a5aaf36720c509ad3d34ad13aef40011b2201cf9a53d"
       },
       {
         "id": "burn",
