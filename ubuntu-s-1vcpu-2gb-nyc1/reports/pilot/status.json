@@ -1,0 +1,16 @@
+{
+  "series": "xl5",
+  "mode": "pilot",
+  "unexpectedInflow": {},
+  "lastSkippedRecipients": [],
+  "lock": {
+    "blocked": false
+  },
+  "alert": null,
+  "lastRun": {
+    "at": "2026-10-03T08:59:26.702Z",
+    "outcome": "nothing-pending",
+    "detail": "0 window(s) settled"
+  },
+  "updatedAt": "2026-10-03T08:59:26.702Z"
+}
