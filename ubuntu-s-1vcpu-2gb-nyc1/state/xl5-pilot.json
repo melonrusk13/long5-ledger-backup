@@ -434,7 +434,7 @@
         "asset": "Xl5",
         "amount": "163936279606606950484728",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 46,
         "txHash": "0x3761512d27691f6323e3e6af5559af66701900c5da64afa19762ae1057cb2cd3"
