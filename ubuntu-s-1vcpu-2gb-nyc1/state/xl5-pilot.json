@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "programStart": 1791021600,
+  "inFlight": null,
+  "unexpectedInflow": {},
+  "closed": null,
+  "capBlockedStreak": 0,
+  "dustReleased": [],
+  "holderCarry": {},
+  "nextNonce": 0,
+  "nonceAccepted": [],
+  "minBalanceHistory": [
+    {
+      "from": 1791021600,
+      "minBalance": "1000000000000000000000000"
+    }
+  ],
+  "nextEpoch": 1,
+  "lastWindowEnd": 1791021600,
+  "windows": {},
+  "dust": {},
+  "feeCarryOver": {
+    "five": {},
+    "xl5": "0"
+  }
+}
