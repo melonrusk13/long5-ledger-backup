@@ -160,7 +160,9 @@
           "25119747219857361",
           "22423115408290048"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 10
       },
       {
         "id": "approve:MOO",
