@@ -1,7 +1,68 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": null,
+  "inFlight": {
+    "window": {
+      "start": 1791036000,
+      "end": 1791050400
+    },
+    "epoch": 2,
+    "startedAt": "2026-10-03T21:37:45.187Z",
+    "balancesBefore": {
+      "AI": "7144315472368888",
+      "MEME": "479707159710615479",
+      "BONER": "154658635585545917",
+      "MOO": "10",
+      "INU": "12",
+      "Xl5": "12"
+    },
+    "steps": [
+      {
+        "id": "collect",
+        "kind": "collect",
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 24,
+        "txHash": "0x932bf56017b9246d2d3c3a6264e1d58e3c3c172369af67093286ce2b56a2d103"
+      },
+      {
+        "id": "claim:AI",
+        "kind": "claim",
+        "asset": "AI",
+        "status": "planned"
+      },
+      {
+        "id": "claim:MEME",
+        "kind": "claim",
+        "asset": "MEME",
+        "status": "planned"
+      },
+      {
+        "id": "claim:BONER",
+        "kind": "claim",
+        "asset": "BONER",
+        "status": "planned"
+      },
+      {
+        "id": "claim:MOO",
+        "kind": "claim",
+        "asset": "MOO",
+        "status": "planned"
+      },
+      {
+        "id": "claim:INU",
+        "kind": "claim",
+        "asset": "INU",
+        "status": "planned"
+      },
+      {
+        "id": "claim:Xl5",
+        "kind": "claim",
+        "asset": "Xl5",
+        "status": "planned"
+      }
+    ]
+  },
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
