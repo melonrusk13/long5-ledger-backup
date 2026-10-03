@@ -410,7 +410,8 @@
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
         "status": "sending",
         "attempts": 1,
-        "nonce": 22
+        "nonce": 22,
+        "txHash": "0xeadb2e72cb1764ab02a2819eec12c8f1ef13924e692e68d11dacd44b34f5cd96"
       },
       {
         "id": "team:Xl5",
