@@ -308,7 +308,7 @@
           "390482710708423827",
           "380234306240052245"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 38,
         "txHash": "0xe7c4af8ede526d549ce236dadc678a50a1fd78db5f212b388c4293a0f1557ca9"
@@ -318,7 +318,10 @@
         "kind": "approve",
         "asset": "Xl5",
         "amount": "98361767763964170290828",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 39,
+        "txHash": "0xe39549ee7cf420dd1ec5c8648c5ff424527638b21afb5d7c20ea966ad0ad5063"
       },
       {
         "id": "disperse:Xl5:1",
