@@ -56,7 +56,7 @@
         "id": "claim:MOO",
         "kind": "claim",
         "asset": "MOO",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 28,
         "txHash": "0x169aaac4f0e544a691ef425507e7ce5ab958cb25987f3540432ddbdc99991377"
@@ -65,7 +65,10 @@
         "id": "claim:INU",
         "kind": "claim",
         "asset": "INU",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 29,
+        "txHash": "0x392f3dec8684ebe2206346cff6d11e625d7e59166e2fe59e478f960624a617ca"
       },
       {
         "id": "claim:Xl5",
