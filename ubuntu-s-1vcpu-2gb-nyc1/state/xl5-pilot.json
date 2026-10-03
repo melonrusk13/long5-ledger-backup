@@ -369,7 +369,7 @@
           "1394692678700363246689",
           "1347597210565895649430"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 40,
         "txHash": "0x4e35c879d6d9cc9302ae7eedb2167c4a53516400dc6ef68784331f4405d6c935"
@@ -379,7 +379,10 @@
         "kind": "burn",
         "asset": "Xl5",
         "amount": "65574511842642780193891",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 41,
+        "txHash": "0xa61b20396eade5512e4ebf61477ff21f453840f75e22708314aaca0a9b0c3f4d"
       },
       {
         "id": "team:AI",
