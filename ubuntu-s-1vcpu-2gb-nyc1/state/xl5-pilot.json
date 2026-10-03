@@ -231,7 +231,10 @@
         "kind": "approve",
         "asset": "INU",
         "amount": "120204953761506670436",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 13,
+        "txHash": "0x35b24bbf874a7cc586f49e1983e9d258f3cc7dfd107134b768faa3facd3d98b8"
       },
       {
         "id": "disperse:INU:1",
