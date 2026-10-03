@@ -206,7 +206,7 @@
         "kind": "approve",
         "asset": "MOO",
         "amount": "23849183281642526524",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 35,
         "txHash": "0xae0db1e0c234253fc555771f6c5ecdd3724fd89df21ad4654175510a65d8ca79"
@@ -257,7 +257,10 @@
           "338162703579183827",
           "326743750089358847"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 36,
+        "txHash": "0x72588575de621f9fcaf2863994d4b93e522675a2eca2677e45768516dc22b9e5"
       },
       {
         "id": "approve:INU",
