@@ -74,12 +74,28 @@
         "id": "claim:Xl5",
         "kind": "claim",
         "asset": "Xl5",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 30,
         "txHash": "0x83c288e710f1c4765b6802b658d66e61ec0d753984fdcf8e50f6201154032fb5"
       }
-    ]
+    ],
+    "collected": {
+      "AI": "3260175321041883715",
+      "MEME": "23969435410761645725",
+      "BONER": "0",
+      "MOO": "26499092535158362814",
+      "INU": "16780971045709035229",
+      "Xl5": "327872559213213900969456"
+    },
+    "unexpectedInflow": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    }
   },
   "unexpectedInflow": {},
   "closed": null,
