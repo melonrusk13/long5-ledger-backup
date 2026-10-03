@@ -423,7 +423,7 @@
         "asset": "INU",
         "amount": "1678097104570903522",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 45,
         "txHash": "0x1e86f6b5e3d12aec8235d38341f5d81b42224b50ee91202c21a90ffe7a4c225b"
@@ -434,7 +434,10 @@
         "asset": "Xl5",
         "amount": "163936279606606950484728",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 46,
+        "txHash": "0x3761512d27691f6323e3e6af5559af66701900c5da64afa19762ae1057cb2cd3"
       }
     ],
     "collected": {
