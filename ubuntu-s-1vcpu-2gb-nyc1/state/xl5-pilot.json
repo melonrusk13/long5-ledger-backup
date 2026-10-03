@@ -257,7 +257,7 @@
           "338162703579183827",
           "326743750089358847"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 36,
         "txHash": "0x72588575de621f9fcaf2863994d4b93e522675a2eca2677e45768516dc22b9e5"
@@ -267,7 +267,10 @@
         "kind": "approve",
         "asset": "INU",
         "amount": "13933615294404846511",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 37,
+        "txHash": "0xb3ba104e714245c4344ebb29b557ffa560fdd046483690b4bf9d3cc406f83e77"
       },
       {
         "id": "disperse:INU:1",
