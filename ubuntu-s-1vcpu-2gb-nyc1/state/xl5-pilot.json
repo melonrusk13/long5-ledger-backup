@@ -401,7 +401,7 @@
         "asset": "MEME",
         "amount": "2396943541076164572",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 43,
         "txHash": "0xa7c86bed9c0eb6519a571117c8c8647f366b3c6cecc1167b567f9f1f443e2d7a"
@@ -412,7 +412,10 @@
         "asset": "MOO",
         "amount": "2649909253515836281",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "done",
+        "attempts": 1,
+        "nonce": 44,
+        "txHash": "0x014d761d55b9ed40ad11c61d16a3beeeed8ce167601a423db95744e85bac1393"
       },
       {
         "id": "team:INU",
@@ -420,7 +423,10 @@
         "asset": "INU",
         "amount": "1678097104570903522",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 45,
+        "txHash": "0x1e86f6b5e3d12aec8235d38341f5d81b42224b50ee91202c21a90ffe7a4c225b"
       },
       {
         "id": "team:Xl5",
