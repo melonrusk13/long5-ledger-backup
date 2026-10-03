@@ -1,92 +1,13 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": {
-    "window": {
-      "start": 1791050400,
-      "end": 1791064800
-    },
-    "epoch": 3,
-    "startedAt": "2026-10-03T22:00:55.137Z",
-    "balancesBefore": {
-      "AI": "22",
-      "MEME": "22",
-      "BONER": "154658635585545917",
-      "MOO": "19",
-      "INU": "1169258646733285208",
-      "Xl5": "21"
-    },
-    "steps": [
-      {
-        "id": "collect",
-        "kind": "collect",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 47,
-        "txHash": "0x1a8c317da4eadaf70ab820f02dabe79a5758edfeb21daf0b3dd02b966a6ec6d8"
-      },
-      {
-        "id": "claim:AI",
-        "kind": "claim",
-        "asset": "AI",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 48,
-        "txHash": "0x1379f10b0849edd6445a0be18697acbf3a4b0484dcabe030a0961626b8774d43"
-      },
-      {
-        "id": "claim:MEME",
-        "kind": "claim",
-        "asset": "MEME",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 49,
-        "txHash": "0x9f12a7ad9e2e6025e834c3d0e2390d46c523708cb427359ab2e559cf568ae416"
-      },
-      {
-        "id": "claim:BONER",
-        "kind": "claim",
-        "asset": "BONER",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 50,
-        "txHash": "0xe84f0c597e658b6626b0c317f8a023dabea03ad1ed265eb6c9676644fd859fc1"
-      },
-      {
-        "id": "claim:MOO",
-        "kind": "claim",
-        "asset": "MOO",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 51,
-        "txHash": "0x44bf0e49ed7004b3d26ffb7e17d10eff7321221adf89744c380c97b26bfdcca7"
-      },
-      {
-        "id": "claim:INU",
-        "kind": "claim",
-        "asset": "INU",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 52,
-        "txHash": "0xa9e81c3bc31e92f4ab8956a843f4b8eb0de13823dc945275c66c90872c14df60"
-      },
-      {
-        "id": "claim:Xl5",
-        "kind": "claim",
-        "asset": "Xl5",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 53,
-        "txHash": "0xc6751bbce5f2269cdefcbd1c9637a79b3db2af38319698ca87ee6e9ad4603fba"
-      }
-    ]
-  },
+  "inFlight": null,
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 47,
+  "nextNonce": 54,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -94,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 3,
-  "lastWindowEnd": 1791050400,
+  "nextEpoch": 4,
+  "lastWindowEnd": 1791064800,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -110,6 +31,13 @@
       "epoch": 2,
       "status": "paid",
       "recordedAt": "2026-10-03T21:38:51.865Z"
+    },
+    "1791050400-1791064800": {
+      "start": 1791050400,
+      "end": 1791064800,
+      "epoch": 3,
+      "status": "paid",
+      "recordedAt": "2026-10-03T22:01:25.667Z"
     }
   },
   "dust": {
