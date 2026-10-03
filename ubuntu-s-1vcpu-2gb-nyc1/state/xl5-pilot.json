@@ -364,7 +364,7 @@
         "asset": "AI",
         "amount": "57940779816260082",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 18,
         "txHash": "0xfb3df4dd90ff56a779b2496ab9c2c305fb9e30fb907f99e9fe4c193b1409fbf6"
