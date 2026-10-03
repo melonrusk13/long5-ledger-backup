@@ -20,7 +20,10 @@
       {
         "id": "collect",
         "kind": "collect",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 0,
+        "txHash": "0x710e682bb8ba5007c4e3e6dd79724ca66637add4c972e0e3a11df6ccc9ecb01e"
       },
       {
         "id": "claim:AI",
