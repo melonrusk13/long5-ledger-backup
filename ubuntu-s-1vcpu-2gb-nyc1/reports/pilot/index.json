@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "series": "xl5",
+  "updatedAt": "2026-10-03T14:09:17.558Z",
+  "epochLengthSeconds": 14400,
+  "nextEpochStart": 1791036000,
+  "latestEpoch": 1,
+  "reports": [
+    {
+      "epoch": 1,
+      "file": "epoch-1.json",
+      "mode": "pilot",
+      "startTime": 1791021600,
+      "endTime": 1791036000,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0.93,
+        "burn": 0.15,
+        "team": 0.46,
+        "fees": 1.57,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    }
+  ]
+}

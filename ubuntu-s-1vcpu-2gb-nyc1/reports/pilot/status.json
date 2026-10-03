@@ -8,9 +8,23 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-03T10:00:35.497Z",
-    "outcome": "nothing-pending",
-    "detail": "0 window(s) settled"
+    "at": "2026-10-03T14:09:17.560Z",
+    "outcome": "processed",
+    "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-03T10:00:35.499Z"
+  "updatedAt": "2026-10-03T14:09:17.560Z",
+  "lastWindow": {
+    "epoch": 1,
+    "start": "2026-10-03T10:00:00Z",
+    "end": "2026-10-03T14:00:00Z",
+    "status": "paid",
+    "note": null,
+    "carriedInUsd": 0,
+    "carriedOutUsd": 0
+  },
+  "gas": {
+    "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
+    "epochsRemaining": 33,
+    "lowGas": true
+  }
 }
