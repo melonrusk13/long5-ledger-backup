@@ -408,7 +408,9 @@
         "asset": "INU",
         "amount": "13356105973500741160",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 22
       },
       {
         "id": "team:Xl5",
