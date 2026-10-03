@@ -353,7 +353,10 @@
         "kind": "burn",
         "asset": "Xl5",
         "amount": "48268737705856822656731",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 17,
+        "txHash": "0x3d78735c269eb8622fb549198b97f807024edd0a699a5e390be685d4da8cf0bc"
       },
       {
         "id": "team:AI",
