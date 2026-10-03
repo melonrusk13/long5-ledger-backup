@@ -143,7 +143,10 @@
         "kind": "approve",
         "asset": "BONER",
         "amount": "47542862628147409",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 9,
+        "txHash": "0xbe30a57ab9c7dba23554f91ec755fa1a5fbef2eceb817f8dfaa1f4c9117420cc"
       },
       {
         "id": "disperse:BONER:1",
