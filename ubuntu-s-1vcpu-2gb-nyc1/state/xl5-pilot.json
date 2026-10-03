@@ -56,7 +56,7 @@
         "id": "claim:MOO",
         "kind": "claim",
         "asset": "MOO",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 4,
         "txHash": "0x359b5363e28b01f3a3477f4663ed6e1497788d25da92f4305f2b92ad05ae2672"
