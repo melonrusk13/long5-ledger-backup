@@ -170,7 +170,10 @@
         "kind": "approve",
         "asset": "MOO",
         "amount": "37791383549860409752",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 11,
+        "txHash": "0xef81cc724f80ecb92fd184697fa05f330c22963fdaf779932bfc4c4f433ec9ad"
       },
       {
         "id": "disperse:MOO:1",
