@@ -390,7 +390,7 @@
         "asset": "AI",
         "amount": "326017532104188371",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 42,
         "txHash": "0x531f5b77a11cc3cd488810117e6c698fb7e00ddaafe493f502855b9e93c28309"
@@ -401,7 +401,10 @@
         "asset": "MEME",
         "amount": "2396943541076164572",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 43,
+        "txHash": "0xa7c86bed9c0eb6519a571117c8c8647f366b3c6cecc1167b567f9f1f443e2d7a"
       },
       {
         "id": "team:MOO",
