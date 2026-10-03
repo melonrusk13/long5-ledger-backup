@@ -386,7 +386,7 @@
         "asset": "BONER",
         "amount": "22466833134854814",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 20,
         "txHash": "0x037e0d121120feb3757b3320ede997d5ef06312896df377a14efd14c103298a2"
