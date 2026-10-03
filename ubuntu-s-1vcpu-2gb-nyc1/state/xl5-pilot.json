@@ -84,7 +84,7 @@
         "kind": "approve",
         "asset": "AI",
         "amount": "514322702873971854",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 7,
         "txHash": "0x5cb47fca6563fb60f57ac06ae02881a7b1ccc96b070547969fdf7dcbf2d7692a"
