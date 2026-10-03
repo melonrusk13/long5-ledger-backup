@@ -20,7 +20,7 @@
       {
         "id": "collect",
         "kind": "collect",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 24,
         "txHash": "0x932bf56017b9246d2d3c3a6264e1d58e3c3c172369af67093286ce2b56a2d103"
@@ -29,13 +29,19 @@
         "id": "claim:AI",
         "kind": "claim",
         "asset": "AI",
-        "status": "planned"
+        "status": "done",
+        "attempts": 1,
+        "nonce": 25,
+        "txHash": "0x2b4c645bdab206078c87c4cc9f2f4056ebe1dad9ca693acdbe9d7c178e7ec558"
       },
       {
         "id": "claim:MEME",
         "kind": "claim",
         "asset": "MEME",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 26,
+        "txHash": "0xd4c16e778620598eed8ab3a91a001b7780322fe558889a1c9959afa6de9c38cb"
       },
       {
         "id": "claim:BONER",
