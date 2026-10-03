@@ -1685,5 +1685,17 @@
   "closed": null,
   "capBlockedStreak": 0,
   "dustReleased": [],
-  "holderCarry": {}
+  "holderCarry": {},
+  "nextNonce": null,
+  "nonceAccepted": [],
+  "minBalanceHistory": [
+    {
+      "from": 0,
+      "minBalance": "100000000000000000000000"
+    },
+    {
+      "from": 1791014400,
+      "minBalance": "1000000000000000000000000"
+    }
+  ]
 }
