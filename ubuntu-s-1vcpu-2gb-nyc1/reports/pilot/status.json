@@ -7,15 +7,15 @@
     "blocked": false
   },
   "alert": {
-    "at": "2026-10-03T19:39:38.348Z",
-    "message": "held — price check failed (limit 10%): Xl5/ETH via the BONER pools is 2.001983192706544e+45% from the median of the anchors"
+    "at": "2026-10-03T19:43:42.246Z",
+    "message": "held — price check failed (limit 10%): Xl5/ETH via the BONER pools is 2.019020983150944e+45% from the median of the anchors"
   },
   "lastRun": {
-    "at": "2026-10-03T19:39:38.348Z",
+    "at": "2026-10-03T19:43:42.246Z",
     "outcome": "held",
-    "detail": "held (price check failed (limit 10%): Xl5/ETH via the BONER pools is 2.001983192706544e+45% from the median of the anchors) — windows are waiting, nothing skipped"
+    "detail": "held (price check failed (limit 10%): Xl5/ETH via the BONER pools is 2.019020983150944e+45% from the median of the anchors) — windows are waiting, nothing skipped"
   },
-  "updatedAt": "2026-10-03T19:39:38.348Z",
+  "updatedAt": "2026-10-03T19:43:42.247Z",
   "lastWindow": {
     "epoch": 1,
     "start": "2026-10-03T10:00:00Z",
