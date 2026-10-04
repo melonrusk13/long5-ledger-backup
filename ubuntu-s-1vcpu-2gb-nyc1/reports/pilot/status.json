@@ -7,15 +7,15 @@
     "blocked": false
   },
   "alert": {
-    "at": "2026-10-04T10:08:27.650Z",
-    "message": "held — price check failed (limit 10%): BONER: on-chain 1.5571e-5 ETH vs par indexer 1.7830e-5 ETH (12.7% apart); MOO: on-chain 2.2699e-6 ETH vs par indexer 2.6543e-6 ETH (14.5% apart)"
+    "at": "2026-10-04T10:12:18.514Z",
+    "message": "held — price check failed (limit 10%): BONER: on-chain 1.5590e-5 ETH vs par indexer 1.7830e-5 ETH (12.6% apart); MOO: on-chain 2.2725e-6 ETH vs par indexer 2.6543e-6 ETH (14.4% apart)"
   },
   "lastRun": {
-    "at": "2026-10-04T10:08:27.650Z",
+    "at": "2026-10-04T10:12:18.514Z",
     "outcome": "held",
-    "detail": "held (price check failed (limit 10%): BONER: on-chain 1.5571e-5 ETH vs par indexer 1.7830e-5 ETH (12.7% apart); MOO: on-chain 2.2699e-6 ETH vs par indexer 2.6543e-6 ETH (14.5% apart)) — windows are waiting, nothing skipped"
+    "detail": "held (price check failed (limit 10%): BONER: on-chain 1.5590e-5 ETH vs par indexer 1.7830e-5 ETH (12.6% apart); MOO: on-chain 2.2725e-6 ETH vs par indexer 2.6543e-6 ETH (14.4% apart)) — windows are waiting, nothing skipped"
   },
-  "updatedAt": "2026-10-04T10:08:27.650Z",
+  "updatedAt": "2026-10-04T10:12:18.516Z",
   "lastWindow": {
     "epoch": 5,
     "start": "2026-10-04T02:00:00Z",
