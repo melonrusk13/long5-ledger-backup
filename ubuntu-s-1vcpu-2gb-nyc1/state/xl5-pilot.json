@@ -65,7 +65,7 @@
         "id": "claim:INU",
         "kind": "claim",
         "asset": "INU",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 59,
         "txHash": "0x7744c176acb2caf1bc58d666413d9464999ee94851db40a3f4b7ba844e82c3eb"
