@@ -312,7 +312,7 @@
         "kind": "burn",
         "asset": "Xl5",
         "amount": "23867956773983568186944",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 83,
         "txHash": "0xe8102022348abcc35fc015a1ca8779d638f135cb66ed0fe05f3434760a7b8732"
