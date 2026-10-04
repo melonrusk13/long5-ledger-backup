@@ -137,7 +137,8 @@
         "amount": "9497007452592910181",
         "status": "sending",
         "attempts": 1,
-        "nonce": 77
+        "nonce": 77,
+        "txHash": "0x820f0893833eebd258a518ffcf98cf99dcff85aee99a8655897f976453a96e1b"
       },
       {
         "id": "disperse:MOO:1",
