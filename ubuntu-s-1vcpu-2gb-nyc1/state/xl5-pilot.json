@@ -206,7 +206,10 @@
         "kind": "burn",
         "asset": "Xl5",
         "amount": "17928551211111396266877",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 65,
+        "txHash": "0x4e1603166a09342b4fd30ae2f9177fb6bd895e0be445f8bdcbe5c7d14a7b50a2"
       },
       {
         "id": "team:INU",
