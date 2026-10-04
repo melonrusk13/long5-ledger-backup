@@ -6,20 +6,17 @@
   "lock": {
     "blocked": false
   },
-  "alert": {
-    "at": "2026-10-04T06:09:57.244Z",
-    "message": "held — price check failed (limit 10%): BONER: on-chain 1.5985e-5 ETH vs par indexer 1.7830e-5 ETH (10.3% apart)"
-  },
+  "alert": null,
   "lastRun": {
-    "at": "2026-10-04T06:09:57.244Z",
-    "outcome": "held",
-    "detail": "held (price check failed (limit 10%): BONER: on-chain 1.5985e-5 ETH vs par indexer 1.7830e-5 ETH (10.3% apart)) — windows are waiting, nothing skipped"
+    "at": "2026-10-04T06:16:30.035Z",
+    "outcome": "processed",
+    "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-04T06:09:57.246Z",
+  "updatedAt": "2026-10-04T06:16:30.036Z",
   "lastWindow": {
-    "epoch": 4,
-    "start": "2026-10-03T22:00:00Z",
-    "end": "2026-10-04T02:00:00Z",
+    "epoch": 5,
+    "start": "2026-10-04T02:00:00Z",
+    "end": "2026-10-04T06:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -27,7 +24,7 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 37,
+    "epochsRemaining": 39,
     "lowGas": true
   }
 }
