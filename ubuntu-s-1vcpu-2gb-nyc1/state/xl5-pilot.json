@@ -421,7 +421,7 @@
         "asset": "MEME",
         "amount": "4340450713729446257",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 107,
         "txHash": "0x02e2aca1d280c65d0518831fa431c050d371216d1990853f888b8faf31aadc55"
