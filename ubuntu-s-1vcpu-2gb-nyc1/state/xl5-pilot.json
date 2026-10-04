@@ -139,7 +139,8 @@
         ],
         "status": "sending",
         "attempts": 1,
-        "nonce": 96
+        "nonce": 96,
+        "txHash": "0x3d86aeb7e3f822e4b8a63314d8a8a3a634647f7469b8fac3e4da8b043bffcf38"
       },
       {
         "id": "approve:MEME",
