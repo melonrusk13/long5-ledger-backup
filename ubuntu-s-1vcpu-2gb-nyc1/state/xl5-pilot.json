@@ -192,7 +192,8 @@
         "amount": "69109314136377274854",
         "status": "sending",
         "attempts": 1,
-        "nonce": 79
+        "nonce": 79,
+        "txHash": "0x7bc9640e1fdac426f14e41f01b7cfe348b7f852e7c0ab37a0b9e1c2d53acc880"
       },
       {
         "id": "disperse:INU:1",
