@@ -454,7 +454,10 @@
         "asset": "Xl5",
         "amount": "470994795877924463264485",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 110,
+        "txHash": "0xe852c9e8d3a5efc865843e24db3b7746258745f83361f464e9f52dc9d25f24b6"
       }
     ],
     "collected": {
