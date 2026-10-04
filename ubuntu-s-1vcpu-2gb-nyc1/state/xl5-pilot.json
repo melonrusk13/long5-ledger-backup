@@ -29,7 +29,10 @@
         "id": "claim:AI",
         "kind": "claim",
         "asset": "AI",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 69,
+        "txHash": "0x9ca26cad5c94bf5b5492adbd9b0c18b769e62582536d619d361a9b205b9929d3"
       },
       {
         "id": "claim:MEME",
