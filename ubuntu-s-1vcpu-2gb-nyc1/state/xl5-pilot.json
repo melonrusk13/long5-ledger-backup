@@ -145,7 +145,10 @@
         "kind": "approve",
         "asset": "Xl5",
         "amount": "26892826816667094400305",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 63,
+        "txHash": "0xde504b289b4e79dc9e807ed8b7180cbcaff70a78bea6a23aa6f5b873fc68a150"
       },
       {
         "id": "disperse:Xl5:1",
