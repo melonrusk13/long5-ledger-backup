@@ -38,7 +38,7 @@
         "id": "claim:MEME",
         "kind": "claim",
         "asset": "MEME",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 120,
         "txHash": "0x1025f7ce1f062ff788ece0da764af708d90c6810803d17ce5883601eb25e5e94"
