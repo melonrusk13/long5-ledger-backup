@@ -137,7 +137,9 @@
           "78311950177385230",
           "75667541118348775"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 96
       },
       {
         "id": "approve:MEME",
