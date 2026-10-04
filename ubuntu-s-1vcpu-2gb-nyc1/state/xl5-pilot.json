@@ -135,7 +135,7 @@
           "1314948904314579847",
           "1270546194551087168"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 62,
         "txHash": "0xe919655aea30d0d6e7307a88d26adb372993588a1118ade587a13dac5ad6aacf"
