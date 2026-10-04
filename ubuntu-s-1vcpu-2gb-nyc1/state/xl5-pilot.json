@@ -84,7 +84,10 @@
         "kind": "approve",
         "asset": "AI",
         "amount": "385785333994324549",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 75,
+        "txHash": "0x82ca17a2e71566d282cb3be3627e5aa9d89d566ef62de4eeda357853d6f05cdb"
       },
       {
         "id": "disperse:AI:1",
