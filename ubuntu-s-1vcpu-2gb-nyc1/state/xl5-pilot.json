@@ -410,7 +410,10 @@
         "asset": "AI",
         "amount": "577290290225369537",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 106,
+        "txHash": "0x0129e0b00b7401d97852d5a2e71ffaa61a7c623427ccaca504b3fe06dc9a514c"
       },
       {
         "id": "team:MEME",
