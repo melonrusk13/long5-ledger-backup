@@ -210,7 +210,7 @@
         "kind": "approve",
         "asset": "MOO",
         "amount": "52495155780276651737",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 99,
         "txHash": "0x672aa39576d1c6b3a897b05c32b5ae3ee8ec2fc38ab0337347bab438e055c8e2"
