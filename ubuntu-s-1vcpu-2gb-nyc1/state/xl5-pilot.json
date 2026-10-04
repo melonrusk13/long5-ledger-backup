@@ -65,7 +65,9 @@
         "id": "claim:INU",
         "kind": "claim",
         "asset": "INU",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 93
       },
       {
         "id": "claim:Xl5",
