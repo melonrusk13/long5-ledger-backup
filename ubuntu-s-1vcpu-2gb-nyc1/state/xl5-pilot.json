@@ -79,7 +79,23 @@
         "nonce": 124,
         "txHash": "0x1c524202f961cdf7e595435aba3d111f643657699d5446f9c973662f62801f10"
       }
-    ]
+    ],
+    "collected": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    },
+    "unexpectedInflow": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    }
   },
   "unexpectedInflow": {},
   "closed": null,
