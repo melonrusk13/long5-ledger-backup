@@ -7,15 +7,15 @@
     "blocked": false
   },
   "alert": {
-    "at": "2026-10-04T19:00:04.183Z",
-    "message": "held — price check failed (limit 10%): Xl5: on-chain 1.0328e-9 ETH vs par indexer 1.1538e-9 ETH (10.5% apart); AI: on-chain 4.1552e-5 ETH vs par indexer 5.0771e-5 ETH (18.2% apart); BONER: on-chain 1.4955e-5 ETH vs par indexer 1.7830e-5 ETH (16.1% apart); MOO: on-chain 2.2371e-6 ETH vs par indexer 2.6543e-6 ETH (15.7% apart); INU: on-chain 1.0185e-6 ETH vs par indexer 1.1366e-6 ETH (10.4% apart)"
+    "at": "2026-10-04T19:01:15.706Z",
+    "message": "held — price check failed (limit 10%): Xl5: on-chain 1.0330e-9 ETH vs par indexer 1.1538e-9 ETH (10.5% apart); AI: on-chain 4.1560e-5 ETH vs par indexer 5.0771e-5 ETH (18.1% apart); BONER: on-chain 1.4958e-5 ETH vs par indexer 1.7830e-5 ETH (16.1% apart); MOO: on-chain 2.2376e-6 ETH vs par indexer 2.6543e-6 ETH (15.7% apart); INU: on-chain 1.0187e-6 ETH vs par indexer 1.1366e-6 ETH (10.4% apart)"
   },
   "lastRun": {
-    "at": "2026-10-04T19:00:04.183Z",
+    "at": "2026-10-04T19:01:15.706Z",
     "outcome": "held",
-    "detail": "held (price check failed (limit 10%): Xl5: on-chain 1.0328e-9 ETH vs par indexer 1.1538e-9 ETH (10.5% apart); AI: on-chain 4.1552e-5 ETH vs par indexer 5.0771e-5 ETH (18.2% apart); BONER: on-chain 1.4955e-5 ETH vs par indexer 1.7830e-5 ETH (16.1% apart); MOO: on-chain 2.2371e-6 ETH vs par indexer 2.6543e-6 ETH (15.7% apart); INU: on-chain 1.0185e-6 ETH vs par indexer 1.1366e-6 ETH (10.4% apart)) — windows are waiting, nothing skipped"
+    "detail": "held (price check failed (limit 10%): Xl5: on-chain 1.0330e-9 ETH vs par indexer 1.1538e-9 ETH (10.5% apart); AI: on-chain 4.1560e-5 ETH vs par indexer 5.0771e-5 ETH (18.1% apart); BONER: on-chain 1.4958e-5 ETH vs par indexer 1.7830e-5 ETH (16.1% apart); MOO: on-chain 2.2376e-6 ETH vs par indexer 2.6543e-6 ETH (15.7% apart); INU: on-chain 1.0187e-6 ETH vs par indexer 1.1366e-6 ETH (10.4% apart)) — windows are waiting, nothing skipped"
   },
-  "updatedAt": "2026-10-04T19:00:04.186Z",
+  "updatedAt": "2026-10-04T19:01:15.706Z",
   "lastWindow": {
     "epoch": 5,
     "start": "2026-10-04T02:00:00Z",
