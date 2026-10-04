@@ -302,7 +302,9 @@
           "507643345452467395170",
           "490501432137406857801"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 82
       },
       {
         "id": "burn",
