@@ -20,7 +20,7 @@
       {
         "id": "collect",
         "kind": "collect",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 118,
         "txHash": "0x6a4d0c1e5857bf70dc77b2a939d4c52485930aa1cc453ef44a9363e49c26d2c2"
