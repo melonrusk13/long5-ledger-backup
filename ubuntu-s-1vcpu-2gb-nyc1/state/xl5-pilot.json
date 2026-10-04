@@ -399,7 +399,9 @@
         "kind": "burn",
         "asset": "Xl5",
         "amount": "188397918351169785305794",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 105
       },
       {
         "id": "team:AI",
