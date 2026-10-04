@@ -67,7 +67,8 @@
         "asset": "INU",
         "status": "sending",
         "attempts": 1,
-        "nonce": 116
+        "nonce": 116,
+        "txHash": "0x2c7a46db1279d2f93d334753cd05db960f13deddd548b416dd799e7ad58365cd"
       },
       {
         "id": "claim:Xl5",
