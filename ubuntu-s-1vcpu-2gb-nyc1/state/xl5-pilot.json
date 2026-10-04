@@ -389,7 +389,7 @@
           "3937004162429371308594",
           "3804060857493020202163"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 104,
         "txHash": "0x5130a232cfe8445363b3d8f4ffab191459bab2be976b47294c031ce942258a2b"
