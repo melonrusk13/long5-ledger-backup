@@ -443,7 +443,10 @@
         "asset": "INU",
         "amount": "37165739840322156521",
         "to": "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 109,
+        "txHash": "0x063351531e5d99a573963e3ccd0ce3b8ad4c9465d8a4127e8e79e514a9c51044"
       },
       {
         "id": "team:Xl5",
