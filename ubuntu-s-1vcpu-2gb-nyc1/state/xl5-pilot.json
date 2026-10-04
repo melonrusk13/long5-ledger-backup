@@ -38,7 +38,7 @@
         "id": "claim:MEME",
         "kind": "claim",
         "asset": "MEME",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 127,
         "txHash": "0xbb1459cb37d86a3094895454432a5ef87b99cf743d1a59867b61bcc96c89de76"
@@ -47,7 +47,10 @@
         "id": "claim:BONER",
         "kind": "claim",
         "asset": "BONER",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 128,
+        "txHash": "0x477fef1c215935dedbd48e9b1fd7da96393f118b4d6959763e50a733e4f72578"
       },
       {
         "id": "claim:MOO",
