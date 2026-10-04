@@ -84,7 +84,7 @@
         "kind": "approve",
         "asset": "MEME",
         "amount": "5718975762706397642",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 132,
         "txHash": "0x1e7947f0955ba305f7a4da8837c9331cfb9871edefec88144d55bf6bcc0c8265"
@@ -137,7 +137,10 @@
           "78593545519738580",
           "75939627653009111"
         ],
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 133,
+        "txHash": "0xb6b02cbb4456ac0dd79ba28cd68f0498d208065fa2f51e725d20b7ae190af214"
       },
       {
         "id": "approve:Xl5",
