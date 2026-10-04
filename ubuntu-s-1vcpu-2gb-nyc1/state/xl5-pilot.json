@@ -251,7 +251,7 @@
         "kind": "approve",
         "asset": "Xl5",
         "amount": "35801935160975352280406",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 81,
         "txHash": "0x107f5ca58c47e20d1ba55ba131525e5f0441c69dec4f036f093c1dbfd1a8a569"
