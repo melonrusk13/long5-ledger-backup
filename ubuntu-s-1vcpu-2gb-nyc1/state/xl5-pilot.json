@@ -65,7 +65,7 @@
         "id": "claim:INU",
         "kind": "claim",
         "asset": "INU",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 130,
         "txHash": "0xf6b52e9ea9148addd96f06c40f7e598d899acb08abe394712775cf0c1512be21"
@@ -74,7 +74,10 @@
         "id": "claim:Xl5",
         "kind": "claim",
         "asset": "Xl5",
-        "status": "planned"
+        "status": "done",
+        "attempts": 1,
+        "nonce": 131,
+        "txHash": "0x9bb96573636bd9e8a1084d1c283a640102eeb24680116d800be7e3be4f22e7c8"
       }
     ]
   },
