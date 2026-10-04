@@ -328,7 +328,8 @@
         ],
         "status": "sending",
         "attempts": 1,
-        "nonce": 102
+        "nonce": 102,
+        "txHash": "0x4ceeb14edca54374a7895e9e3d11c05d46b40c70cb38a9977c255fe7fac16626"
       },
       {
         "id": "approve:Xl5",
