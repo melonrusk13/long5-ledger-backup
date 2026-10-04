@@ -22,7 +22,8 @@
         "kind": "collect",
         "status": "sending",
         "attempts": 1,
-        "nonce": 88
+        "nonce": 88,
+        "txHash": "0xad5f5ec80f2e6c8e410540ddda6a27c13b53aecbfd7fd2086a09120a9a1a9fb9"
       },
       {
         "id": "claim:AI",
