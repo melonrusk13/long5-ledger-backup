@@ -20,7 +20,9 @@
       {
         "id": "collect",
         "kind": "collect",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 88
       },
       {
         "id": "claim:AI",
