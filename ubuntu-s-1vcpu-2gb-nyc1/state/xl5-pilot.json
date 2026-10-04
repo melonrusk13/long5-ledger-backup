@@ -180,7 +180,7 @@
           "386713225149737550237",
           "338367661473319403315"
         ],
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 135,
         "txHash": "0x7d97cdacf63a21411a5fd8ee78756a549194a3a62ca2dcc7f4e13d9f1d69dfa7"
@@ -190,7 +190,10 @@
         "kind": "burn",
         "asset": "Xl5",
         "amount": "6455589730375485299953",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 136,
+        "txHash": "0x4f0e40f7c9c1a43237ea4001155c4905561dc93fd7171679a00092c9d6f51f54"
       },
       {
         "id": "team:MEME",
