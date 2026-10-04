@@ -79,7 +79,23 @@
         "nonce": 74,
         "txHash": "0x1a6e086989d8e04a16644865b096171e96796c5a6493618dfadc5bebdd8aaf29"
       }
-    ]
+    ],
+    "collected": {
+      "AI": "464621161330439249",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "11021658777836534951",
+      "INU": "76788126818196972072",
+      "Xl5": "119339783869917840934722"
+    },
+    "unexpectedInflow": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    }
   },
   "unexpectedInflow": {},
   "closed": null,
