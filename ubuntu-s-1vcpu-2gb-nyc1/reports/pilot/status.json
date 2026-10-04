@@ -15,11 +15,11 @@
     "outcome": "held",
     "detail": "held (price check failed (limit 10%): BONER: on-chain 1.5818e-5 ETH vs par indexer 1.7830e-5 ETH (11.3% apart)) — windows are waiting, nothing skipped"
   },
-  "updatedAt": "2026-10-04T21:43:50.390Z",
+  "updatedAt": "2026-10-04T21:54:38.235Z",
   "lastWindow": {
-    "epoch": 5,
-    "start": "2026-10-04T02:00:00Z",
-    "end": "2026-10-04T06:00:00Z",
+    "epoch": 6,
+    "start": "2026-10-04T06:00:00Z",
+    "end": "2026-10-04T10:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
