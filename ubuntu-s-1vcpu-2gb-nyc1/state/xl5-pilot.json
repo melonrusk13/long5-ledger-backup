@@ -74,7 +74,9 @@
         "id": "claim:Xl5",
         "kind": "claim",
         "asset": "Xl5",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 117
       }
     ]
   },
