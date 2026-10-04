@@ -47,7 +47,7 @@
         "id": "claim:BONER",
         "kind": "claim",
         "asset": "BONER",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 128,
         "txHash": "0x477fef1c215935dedbd48e9b1fd7da96393f118b4d6959763e50a733e4f72578"
@@ -56,13 +56,19 @@
         "id": "claim:MOO",
         "kind": "claim",
         "asset": "MOO",
-        "status": "planned"
+        "status": "done",
+        "attempts": 1,
+        "nonce": 129,
+        "txHash": "0x927ef7b6522d3cb79ec5c42ea4f1dffa74faa0582925b7e585c4fb073adac291"
       },
       {
         "id": "claim:INU",
         "kind": "claim",
         "asset": "INU",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 130,
+        "txHash": "0xf6b52e9ea9148addd96f06c40f7e598d899acb08abe394712775cf0c1512be21"
       },
       {
         "id": "claim:Xl5",
