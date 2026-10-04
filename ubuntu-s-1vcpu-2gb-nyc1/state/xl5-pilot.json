@@ -127,7 +127,8 @@
         ],
         "status": "sending",
         "attempts": 1,
-        "nonce": 76
+        "nonce": 76,
+        "txHash": "0xa0ccb07410ee81022cb5b18804cf567f6eb05d995c1fff48d8c22dfd9411ef10"
       },
       {
         "id": "approve:MOO",
