@@ -74,7 +74,7 @@
         "id": "claim:Xl5",
         "kind": "claim",
         "asset": "Xl5",
-        "status": "sending",
+        "status": "done",
         "attempts": 1,
         "nonce": 74,
         "txHash": "0x1a6e086989d8e04a16644865b096171e96796c5a6493618dfadc5bebdd8aaf29"
