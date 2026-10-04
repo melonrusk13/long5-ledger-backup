@@ -147,7 +147,10 @@
         "kind": "approve",
         "asset": "MEME",
         "amount": "39064056423565016306",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 97,
+        "txHash": "0xf8e5485fc1f838052e4e2b332625a0e9661caa79cf059879ed55b6161d61a17b"
       },
       {
         "id": "disperse:MEME:1",
