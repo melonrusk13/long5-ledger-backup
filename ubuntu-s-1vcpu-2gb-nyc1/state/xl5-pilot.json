@@ -74,7 +74,10 @@
         "id": "claim:Xl5",
         "kind": "claim",
         "asset": "Xl5",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 60,
+        "txHash": "0x613b0ea05a59dac8b9dc3a96b86dbe97d212e52d663d9fe9a3d6c12bd47a93b8"
       }
     ]
   },
