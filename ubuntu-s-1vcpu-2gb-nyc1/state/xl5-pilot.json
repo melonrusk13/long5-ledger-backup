@@ -47,7 +47,10 @@
         "id": "claim:BONER",
         "kind": "claim",
         "asset": "BONER",
-        "status": "planned"
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 71,
+        "txHash": "0x542f5cb012bfb6ca4a9e8b46efa7e7bbdb778d9f409a08753140013924e336c3"
       },
       {
         "id": "claim:MOO",
