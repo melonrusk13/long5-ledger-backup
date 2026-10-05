@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-05T18:01:50.550Z",
+    "at": "2026-10-05T22:01:43.332Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-05T18:01:50.551Z",
+  "updatedAt": "2026-10-05T22:01:43.333Z",
   "lastWindow": {
-    "epoch": 14,
-    "start": "2026-10-05T14:00:00Z",
-    "end": "2026-10-05T18:00:00Z",
+    "epoch": 15,
+    "start": "2026-10-05T18:00:00Z",
+    "end": "2026-10-05T22:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -26,5 +26,13 @@
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
     "epochsRemaining": 38,
     "lowGas": true
+  },
+  "lastBuyback": {
+    "slot": "2026-10-05T14:00:00Z",
+    "status": "skipped-min",
+    "bought": "0",
+    "boughtUsd": 0,
+    "burnTx": null,
+    "note": "bucket worth $0.0000 (lower prices) — below the $0.25 minimum; it waits for the next buyback"
   }
 }

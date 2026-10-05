@@ -1,0 +1,24 @@
+{
+  "kind": "buyback",
+  "mode": "pilot",
+  "slot": "2026-10-05T14:00:00Z",
+  "status": "skipped-min",
+  "note": "bucket worth $0.0000 (lower prices) — below the $0.25 minimum; it waits for the next buyback",
+  "spent": {},
+  "spentUsd": 0,
+  "bought": "0",
+  "burned": "0",
+  "boughtUsd": 0,
+  "avgPriceUsd": null,
+  "xl5PriceUsd": 0.000002827422327086508,
+  "swaps": [],
+  "burnTx": null,
+  "failed": null,
+  "settings": {
+    "minUsd": 0.25,
+    "maxUsdPerSwap": 25,
+    "maxSlippagePct": 3
+  },
+  "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 37.9%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; indexer gap > 10%, valued cautiously (cap at the higher, dust/minimum at the lower price): BONER 37.9%)",
+  "generatedAt": "2026-10-05T21:36:08.314Z"
+}

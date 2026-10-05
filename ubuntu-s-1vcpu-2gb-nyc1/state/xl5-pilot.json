@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 199,
+  "nextNonce": 209,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 15,
-  "lastWindowEnd": 1791223200,
+  "nextEpoch": 16,
+  "lastWindowEnd": 1791237600,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -115,6 +115,13 @@
       "epoch": 14,
       "status": "paid",
       "recordedAt": "2026-10-05T18:01:50.550Z"
+    },
+    "1791223200-1791237600": {
+      "start": 1791223200,
+      "end": 1791237600,
+      "epoch": 15,
+      "status": "paid",
+      "recordedAt": "2026-10-05T22:01:43.296Z"
     }
   },
   "dust": {
@@ -125,7 +132,6 @@
       "BONER": "6796978066576690"
     },
     "0x11854ce19dcd63a7eccaa12ded5aa991c94c79c6": {
-      "AI": "7451168907267892",
       "BONER": "3452558919187330"
     },
     "0x35507b7005a5da4758d24cd8d0d8fc9166c9853a": {
@@ -153,15 +159,12 @@
       "BONER": "20343825713430326"
     },
     "0x547a10b63ab4c784a49da5805610b9ee2d74377c": {
-      "AI": "6419979039366962",
       "BONER": "2974748817161017"
     },
     "0x4dd69b23ab6f16f3f8219dba636354b67349b0e0": {
-      "AI": "6187566430743915",
       "BONER": "2867058569520756"
     },
     "0xd1836f28f43e3f451120db79f3e40629e3438cd3": {
-      "AI": "5978626968940368",
       "BONER": "2770244792863995"
     },
     "0x441ddb5f25b62c86abe35120b09dd591335488f6": {
@@ -192,5 +195,22 @@
       "INU": "0"
     },
     "xl5": "0"
-  }
+  },
+  "buybackBucket": {
+    "AI": "725382731614738479"
+  },
+  "buybackInFlight": null,
+  "buybacks": {
+    "1791208800": {
+      "slot": 1791208800,
+      "status": "skipped-min",
+      "recordedAt": "2026-10-05T21:36:08.313Z",
+      "spent": {},
+      "bought": "0",
+      "burnTx": null,
+      "swaps": [],
+      "note": "bucket worth $0.0000 (lower prices) — below the $0.25 minimum; it waits for the next buyback"
+    }
+  },
+  "lastBuybackSlot": 1791208800
 }
