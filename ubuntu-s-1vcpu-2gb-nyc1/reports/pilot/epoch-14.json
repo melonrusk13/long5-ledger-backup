@@ -1,0 +1,538 @@
+{
+  "version": 3,
+  "mode": "pilot",
+  "status": "paid",
+  "epoch": 14,
+  "startTime": 1791208800,
+  "endTime": 1791223200,
+  "epochLengthSeconds": 14400,
+  "nextEpochStart": 1791223200,
+  "startBlock": "80839006",
+  "endBlock": "80980549",
+  "fees": {
+    "five": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "12887592346757473461",
+      "INU": "154202210893057054167"
+    },
+    "xl5": "163941296148374553745039"
+  },
+  "carriedIn": {
+    "five": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0"
+    },
+    "xl5": "0"
+  },
+  "carriedOut": {
+    "five": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0"
+    },
+    "xl5": "0"
+  },
+  "split": {
+    "holders": {
+      "AI": "7747250109702256",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "11748720799477939876",
+      "INU": "138781989803751348742",
+      "Xl5": "49182388844512366123501"
+    },
+    "burn": "32788259229674910749007",
+    "team": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "1288759234675747346",
+      "INU": "15420221089305705416",
+      "Xl5": "81970648074187276872519"
+    }
+  },
+  "eligibility": {
+    "minBalance": "1000000000000000000000000",
+    "eligibleCount": 19,
+    "totalWeight": "72199674359503927035346998",
+    "excludedAddresses": [
+      "0x6594ccf2e71474b5039a214fa58519b861d83577",
+      "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
+      "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+      "0x5826fbb6201daacd924a3d292841da9142952d59",
+      "0x1c27e8f0c2a754db23ab1608fa09c068d54d4386",
+      "0x0000000000000000000000000000000000000000",
+      "0x000000000000000000000000000000000000dead",
+      "0x48a097df16c7844a33b1c3d11ab353457846e13f",
+      "0x458d2a59c2f3dd32775a64ee72004561440d64df",
+      "0x28a5f3f898e99753e322fdce6efa8b294c215b9b"
+    ]
+  },
+  "wallets": [
+    {
+      "address": "0x5b0051e4ea8eaf6ec523ab2aa76fe0149e68b040",
+      "minBalance": "9246884163100532458782226",
+      "share": 0.12807376550007013,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "1485506232071203705",
+        "INU": "17774332017758774902",
+        "Xl5": "6298973735605342206972"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "119"
+      }
+    },
+    {
+      "address": "0x51a6bf315a019d3bff529559081c64e8627dd60a",
+      "minBalance": "8254221228483769407983163",
+      "share": 0.11432490938094148,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "1326035544463406607",
+        "INU": "15866238408020615203",
+        "Xl5": "5622772147787102625217"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "106"
+      }
+    },
+    {
+      "address": "0x84224a153fc8289617574f23e37a4dcc380ca8d9",
+      "minBalance": "7488809427894536983026099",
+      "share": 0.10372359008997048,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "1203072611239541539",
+        "INU": "14394966222274767009",
+        "Xl5": "5101373940153737337065"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "20343825713430326"
+      }
+    },
+    {
+      "address": "0x441ddb5f25b62c86abe35120b09dd591335488f6",
+      "minBalance": "6601817035531058640409088",
+      "share": 0.09143832148963199,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "1060577831007117416",
+        "INU": "12689992200646242609",
+        "Xl5": "4497155082792611012942"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "17935164493926250"
+      }
+    },
+    {
+      "address": "0x79c0ee1b1b49eac763b47a9aab3e15b1e08e3eb9",
+      "minBalance": "6601145104353413546315414",
+      "share": 0.09142901492165081,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "1060469885678257576",
+        "INU": "12688700616623571889",
+        "Xl5": "4496697363547353198252"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "17933339057666081"
+      }
+    },
+    {
+      "address": "0x5a0acf442224b0bfd4f5dab66c4847ba37be3d39",
+      "minBalance": "6310938265510980104022063",
+      "share": 0.08740951149013385,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "1013848336182652484",
+        "INU": "12130865932374640942",
+        "Xl5": "4299008582816634060163"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "17144933780166187"
+      }
+    },
+    {
+      "address": "0x2d86499a410a9ac2139833ba8d6942b8a8700a7b",
+      "minBalance": "5027629036726290919975281",
+      "share": 0.06963506527317853,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "807685500852515572",
+        "INU": "9664092918725823696",
+        "Xl5": "3424818857478466661440"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "13658566013390358"
+      }
+    },
+    {
+      "address": "0x023d068f3d2fe0b2bfca389c96a7f2768ac0d931",
+      "minBalance": "3066817291468048860409553",
+      "share": 0.04247688536928078,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "492682304519313702",
+        "INU": "5895026672214639730",
+        "Xl5": "2089114693135745456859"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "8331626323369053"
+      }
+    },
+    {
+      "address": "0xcc32727cb42740e6a4f0f9c8bf0eba584d9bd377",
+      "minBalance": "2683414291502896486986216",
+      "share": 0.03716657056015749,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "431088849275676602",
+        "INU": "5158050616520182311",
+        "Xl5": "1827940725306671628710"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "7290034919846210"
+      }
+    },
+    {
+      "address": "0x55f3422138e9fed0bd81351bff66c882550002e8",
+      "minBalance": "2501923280673171816468639",
+      "share": 0.0346528333107895,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "401932430432633812",
+        "INU": "4809189159209082666",
+        "Xl5": "1704309122455319738482"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "6796978066576690"
+      }
+    },
+    {
+      "address": "0x1bda647c4432842fd0425ed00428b1ddde7e21a2",
+      "minBalance": "2494766126413331707648673",
+      "share": 0.03455370330330217,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "400782638019388908",
+        "INU": "4795431699520730822",
+        "Xl5": "1699433671880918658761"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "6777534216759620"
+      }
+    },
+    {
+      "address": "0x0db7388819fa7779b5ffd0369770607a40150567",
+      "minBalance": "2360840641406202166315024",
+      "share": 0.032698771322026546,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "379267591534309832",
+        "INU": "4538000548208684783",
+        "Xl5": "1608203685897699151823"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "30"
+      }
+    },
+    {
+      "address": "0xe49193acd219557a150e35ccc2a66f89c42482e6",
+      "minBalance": "1924352821690954480137547",
+      "share": 0.026653206385793684,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "309146092770691875",
+        "INU": "3698985016870499198",
+        "Xl5": "1310868360419144976168"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "5227891687337875"
+      }
+    },
+    {
+      "address": "0x1eea696d22b4a68942c1a4610e7a45b906bd94ae",
+      "minBalance": "1873847266603094886857970",
+      "share": 0.0259536803070973,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "301032406526343577",
+        "INU": "3601903395749399564",
+        "Xl5": "1276463996809822493477"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "5090683183454376"
+      }
+    },
+    {
+      "address": "0x35507b7005a5da4758d24cd8d0d8fc9166c9853a",
+      "minBalance": "1321363746038913146932995",
+      "share": 0.018301519470287984,
+      "payouts": {
+        "AI": "7747250109702256",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "212276270033384664",
+        "INU": "2539921288518663580",
+        "Xl5": "900112447033117541307"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "BONER": "3589750520799177"
+      }
+    },
+    {
+      "address": "0x11854ce19dcd63a7eccaa12ded5aa991c94c79c6",
+      "minBalance": "1270864412566973148910879",
+      "share": 0.017602079563945904,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "204163583287792822",
+        "INU": "2442851626568360434",
+        "Xl5": "865712321586032122269"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "AI": "7451168907267892",
+        "BONER": "3452558919187330"
+      }
+    },
+    {
+      "address": "0x547a10b63ab4c784a49da5805610b9ee2d74377c",
+      "minBalance": "1094985631395248324467240",
+      "share": 0.015166074377884104,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "175908765674496395",
+        "INU": "2104777979674446126",
+        "Xl5": "745903767297891917865"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "AI": "6419979039366962",
+        "BONER": "2974748817161017"
+      }
+    },
+    {
+      "address": "0x4dd69b23ab6f16f3f8219dba636354b67349b0e0",
+      "minBalance": "1055345553844089040785982",
+      "share": 0.01461704035657011,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "169540611688420261",
+        "INU": "2028581945726534852",
+        "Xl5": "718900962572760789347"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "AI": "6187566430743915",
+        "BONER": "2867058569520756"
+      }
+    },
+    {
+      "address": "0xd1836f28f43e3f451120db79f3e40629e3438cd3",
+      "minBalance": "1019709034300420908912946",
+      "share": 0.014123457527287208,
+      "payouts": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "313703314220792527",
+        "INU": "1960081538545688426",
+        "Xl5": "694625379935994546382"
+      },
+      "streak": 0,
+      "dustCarried": {
+        "AI": "5978626968940368",
+        "BONER": "2770244792863995"
+      }
+    }
+  ],
+  "transactions": {
+    "collect": "0x8ca9c16fe6ce7621735c67f4a2285d240e9682ffdfa0adea93fe9b58fcfbbd69",
+    "claim": {
+      "MOO": "0xa45a06b565ed559de281042bbc18a76bbc91eefdaa8f135052a4a98860e25b40",
+      "INU": "0x694bf00d6309b5e5635b170bf3ccf5cb80603aeef0ab3ab009688254d72dbf02",
+      "Xl5": "0x1b9dd0cce0506aa21fca6cdeeb309bc2916133c51a92c763ce8e48d8959c8801"
+    },
+    "approve": {
+      "AI": "0x944c66315e7d2a99c63c0554ebdbf65887d9a86f827db42723b1ea53c0dccaee",
+      "MOO": "0x2bd51c8cc500c6ba822ffca18f345034fcadfb4bd9073de66ea65b50259d8198",
+      "INU": "0x52cc5ef6c20c28d9c43390d4ad740849085cc061e5241024f4b618a9c5ae214f",
+      "Xl5": "0x8bb58558e952bf9c0a3d511a2d046149c34e8e1a8dd2d9b7e572d1e68a5d25ae"
+    },
+    "disperse": {
+      "AI": [
+        "0xa129244064790549100b6682f3562df76c9965cd648bd627c97457f616819e7c"
+      ],
+      "MOO": [
+        "0x858dd9dccf185d92e07c01a0016f14c0f9cd470caad4f0fe37cc694fded79abc"
+      ],
+      "INU": [
+        "0x1acc6d9bf1394650c5828f26d4170d06d1823c3418a92fcc81d3b0fe905faa88"
+      ],
+      "Xl5": [
+        "0x0886702e603550e25852c012813867e916a926a5fcc365ce6cd65a95f3e9d14e"
+      ]
+    },
+    "burn": "0x66b42457c6051640bb7d2e3f21ad9bfe9f21ad541cba227fb0b7475ff7129835",
+    "team": {
+      "MOO": "0x9b5f66313f2315907f01deb7ee0b303f9282ee6813ebe276f040244d98638434",
+      "INU": "0x917aa7b57a359bc962fa1c0e95e161c3105922ad8628856c2d6322ed27c1c17c",
+      "Xl5": "0xf4ace3ce786bc16a52b30fe845bd03ae3b5097e43f8666e43850c0df2594ca65"
+    }
+  },
+  "cap": {
+    "capUsd": 10,
+    "carriedOut": {
+      "five": {
+        "AI": "0",
+        "MEME": "0",
+        "BONER": "0",
+        "MOO": "0",
+        "INU": "0"
+      },
+      "xl5": "0"
+    }
+  },
+  "unexpectedInflow": {},
+  "skippedRecipients": [],
+  "usd": {
+    "pricedAt": 1791223234,
+    "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 34.9%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; indexer gap > 10%, valued cautiously (cap at the higher, dust/minimum at the lower price): BONER 34.9%)",
+    "indexerGap": [
+      {
+        "asset": "BONER",
+        "chainEth": 0.000015815324557196443,
+        "indexerEth": 0.000024291239168668148,
+        "diffPct": 34.89288690716237,
+        "lastTradeAt": 1791159540,
+        "capUsd": 0.06569760169893177,
+        "floorUsd": 0.04277381183740552
+      }
+    ],
+    "anchorsUnusable": [
+      {
+        "asset": "BONER",
+        "reason": "zero active liquidity",
+        "liquidity": "0",
+        "tick": -887272
+      }
+    ],
+    "prices": {
+      "Xl5": 0.000003,
+      "AI": 0.130205,
+      "MEME": 0.016735,
+      "BONER": 0.042774,
+      "MOO": 0.006635,
+      "INU": 0.002564
+    },
+    "fees": {
+      "AI": 0,
+      "MEME": 0,
+      "BONER": 0,
+      "MOO": 0.09,
+      "INU": 0.4,
+      "Xl5": 0.48,
+      "total": 0.97
+    },
+    "holders": {
+      "AI": 0,
+      "MEME": 0,
+      "BONER": 0,
+      "MOO": 0.08,
+      "INU": 0.36,
+      "Xl5": 0.15,
+      "total": 0.58
+    },
+    "burn": 0.1,
+    "team": {
+      "AI": 0,
+      "MEME": 0,
+      "BONER": 0,
+      "MOO": 0.01,
+      "INU": 0.04,
+      "Xl5": 0.24,
+      "total": 0.29
+    },
+    "carriedIn": 0,
+    "carriedOut": 0
+  },
+  "meta": {
+    "generatedAt": "2026-10-05T18:01:29.196Z",
+    "tradeCount": 0,
+    "tradeCoverage": "full",
+    "note": null,
+    "gasAlert": {
+      "address": "0x6594ccF2e71474b5039A214fA58519b861D83577",
+      "balanceEth": "0.00950892",
+      "epochCostEth": "0.00024764",
+      "epochsRemaining": 38,
+      "lowGas": true,
+      "insufficientGas": false,
+      "configured": true
+    },
+    "gas": {
+      "txCount": 16,
+      "gasUsed": "2191421",
+      "costWei": "45686853166000",
+      "costEth": "0.00004569"
+    }
+  }
+}
