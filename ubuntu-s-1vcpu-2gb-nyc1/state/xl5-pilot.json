@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 274,
+  "nextNonce": 280,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 21,
-  "lastWindowEnd": 1791309600,
+  "nextEpoch": 22,
+  "lastWindowEnd": 1791324000,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -157,6 +157,13 @@
       "epoch": 20,
       "status": "paid",
       "recordedAt": "2026-10-06T18:01:14.459Z"
+    },
+    "1791309600-1791324000": {
+      "start": 1791309600,
+      "end": 1791324000,
+      "epoch": 21,
+      "status": "paid",
+      "recordedAt": "2026-10-06T22:06:07.090Z"
     }
   },
   "dust": {
