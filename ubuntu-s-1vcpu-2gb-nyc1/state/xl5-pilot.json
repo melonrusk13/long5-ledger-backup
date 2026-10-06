@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 250,
+  "nextNonce": 264,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 19,
-  "lastWindowEnd": 1791280800,
+  "nextEpoch": 20,
+  "lastWindowEnd": 1791295200,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -143,6 +143,13 @@
       "epoch": 18,
       "status": "paid",
       "recordedAt": "2026-10-06T10:01:41.621Z"
+    },
+    "1791280800-1791295200": {
+      "start": 1791280800,
+      "end": 1791295200,
+      "epoch": 19,
+      "status": "paid",
+      "recordedAt": "2026-10-06T14:01:46.534Z"
     }
   },
   "dust": {
@@ -153,28 +160,33 @@
       "BONER": "14132290743999694"
     },
     "0x11854ce19dcd63a7eccaa12ded5aa991c94c79c6": {
-      "BONER": "7178567589716992"
+      "AI": "5654896828801591",
+      "BONER": "7178567589716992",
+      "MOO": "160658781668763428"
     },
     "0x35507b7005a5da4758d24cd8d0d8fc9166c9853a": {
+      "AI": "5879600989122092",
       "BONER": "7463816649317106"
     },
     "0x0db7388819fa7779b5ffd0369770607a40150567": {
       "BONER": "6921676783566569"
     },
-    "0x51a6bf315a019d3bff529559081c64e8627dd60a": {
-      "BONER": "24199073152015241"
-    },
     "0x547a10b63ab4c784a49da5805610b9ee2d74377c": {
+      "AI": "4872298502759424",
       "BONER": "6185103845077171",
+      "MOO": "138424725521607545",
       "Xl5": "315950229378618360998"
     },
     "0x4dd69b23ab6f16f3f8219dba636354b67349b0e0": {
+      "AI": "4695914187783819",
       "BONER": "5961194061194051",
+      "MOO": "133413548482067196",
       "Xl5": "304512370071810524576"
     },
     "0xd1836f28f43e3f451120db79f3e40629e3438cd3": {
-      "MEME": "53190474131109883",
-      "BONER": "5759898658099261"
+      "AI": "4535746074170166",
+      "BONER": "5759898658099261",
+      "MOO": "128863082792880272"
     },
     "0xcc32727cb42740e6a4f0f9c8bf0eba584d9bd377": {
       "BONER": "15157455615424502"
@@ -186,6 +198,7 @@
       "BONER": "10869843124388489"
     },
     "0x1eea696d22b4a68942c1a4610e7a45b906bd94ae": {
+      "AI": "8337957110758228",
       "BONER": "10584558921550471"
     },
     "0x8d7bfb930c952b9cca4991651b35ad104e25e10c": {
@@ -203,11 +216,11 @@
     "xl5": "0"
   },
   "buybackBucket": {
-    "AI": "1614281245581207259",
+    "AI": "1694595186288013621",
     "MEME": "941510620740214712",
     "BONER": "52919078320637336",
-    "MOO": "25519565462487520454",
-    "INU": "11308304723041022038"
+    "MOO": "27801329437252609052",
+    "INU": "19218093080592729143"
   },
   "buybackInFlight": null,
   "buybacks": {
@@ -220,7 +233,17 @@
       "burnTx": null,
       "swaps": [],
       "note": "bucket worth $0.0000 (lower prices) — below the $0.25 minimum; it waits for the next buyback"
+    },
+    "1791295200": {
+      "slot": 1791295200,
+      "status": "skipped-price",
+      "recordedAt": "2026-10-06T14:01:46.536Z",
+      "spent": {},
+      "bought": "0",
+      "burnTx": null,
+      "swaps": [],
+      "note": "prices differ by more than 10% — BONER: on-chain vs par indexer 36.2% apart; it waits for the next buyback"
     }
   },
-  "lastBuybackSlot": 1791208800
+  "lastBuybackSlot": 1791295200
 }
