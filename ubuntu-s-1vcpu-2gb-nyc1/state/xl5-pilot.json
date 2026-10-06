@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 209,
+  "nextNonce": 218,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 16,
-  "lastWindowEnd": 1791237600,
+  "nextEpoch": 17,
+  "lastWindowEnd": 1791252000,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -122,6 +122,13 @@
       "epoch": 15,
       "status": "paid",
       "recordedAt": "2026-10-05T22:01:43.296Z"
+    },
+    "1791237600-1791252000": {
+      "start": 1791237600,
+      "end": 1791252000,
+      "epoch": 16,
+      "status": "paid",
+      "recordedAt": "2026-10-06T02:07:29.903Z"
     }
   },
   "dust": {
@@ -197,7 +204,7 @@
     "xl5": "0"
   },
   "buybackBucket": {
-    "AI": "725382731614738479"
+    "AI": "1278988058909275530"
   },
   "buybackInFlight": null,
   "buybacks": {
