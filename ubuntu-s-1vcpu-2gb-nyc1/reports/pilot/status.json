@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-07T12:40:00.259Z",
-    "outcome": "nothing-pending",
-    "detail": "0 window(s) settled"
+    "at": "2026-10-07T14:01:32.590Z",
+    "outcome": "processed",
+    "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-07T12:40:00.260Z",
+  "updatedAt": "2026-10-07T14:01:32.591Z",
   "lastWindow": {
-    "epoch": 24,
-    "start": "2026-10-07T06:00:00Z",
-    "end": "2026-10-07T10:00:00Z",
+    "epoch": 25,
+    "start": "2026-10-07T10:00:00Z",
+    "end": "2026-10-07T14:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -24,15 +24,15 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 36,
+    "epochsRemaining": 35,
     "lowGas": true
   },
   "lastBuyback": {
-    "slot": "2026-10-06T14:00:00Z",
-    "status": "skipped-price",
-    "bought": "0",
-    "boughtUsd": 0,
-    "burnTx": null,
-    "note": "prices differ by more than 10% — BONER: on-chain vs par indexer 36.2% apart; it waits for the next buyback"
+    "slot": "2026-10-07T14:00:00Z",
+    "status": "partial",
+    "bought": "347265341559422237399327",
+    "boughtUsd": 0.9055869834608916,
+    "burnTx": "0x9c791ff9ddf6ab0bcab09ed5d03908d8d12f9ebac0401679019a6ec569f34f07",
+    "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   }
 }

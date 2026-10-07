@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 327,
+  "nextNonce": 350,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 25,
-  "lastWindowEnd": 1791367200,
+  "nextEpoch": 26,
+  "lastWindowEnd": 1791381600,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -185,6 +185,13 @@
       "epoch": 24,
       "status": "paid",
       "recordedAt": "2026-10-07T10:06:39.597Z"
+    },
+    "1791367200-1791381600": {
+      "start": 1791367200,
+      "end": 1791381600,
+      "epoch": 25,
+      "status": "paid",
+      "recordedAt": "2026-10-07T14:01:09.891Z"
     }
   },
   "dust": {
@@ -209,17 +216,20 @@
     "0x547a10b63ab4c784a49da5805610b9ee2d74377c": {
       "AI": "4790172845592311",
       "MEME": "52690489536740564",
-      "BONER": "6185103845077171"
+      "BONER": "6185103845077171",
+      "Xl5": "358550283744092917995"
     },
     "0x4dd69b23ab6f16f3f8219dba636354b67349b0e0": {
       "AI": "4616761599235786",
       "MEME": "50783016934763545",
-      "BONER": "5961194061194051"
+      "BONER": "5961194061194051",
+      "Xl5": "345570240311472139889"
     },
     "0xd1836f28f43e3f451120db79f3e40629e3438cd3": {
       "AI": "4460866114619642",
       "MEME": "49068212532081460",
-      "BONER": "5759898658099261"
+      "BONER": "5759898658099261",
+      "Xl5": "333901272902931634485"
     },
     "0xcc32727cb42740e6a4f0f9c8bf0eba584d9bd377": {
       "BONER": "15157455615424502"
@@ -248,11 +258,11 @@
     "xl5": "0"
   },
   "buybackBucket": {
-    "AI": "2067575861903103896",
-    "MEME": "13572338720135841337",
+    "AI": "0",
+    "MEME": "0",
     "BONER": "52919078320637336",
-    "MOO": "67311910372051680090",
-    "INU": "45053788327770037596"
+    "MOO": "0",
+    "INU": "0"
   },
   "buybackInFlight": null,
   "buybacks": {
@@ -275,7 +285,47 @@
       "burnTx": null,
       "swaps": [],
       "note": "prices differ by more than 10% — BONER: on-chain vs par indexer 36.2% apart; it waits for the next buyback"
+    },
+    "1791381600": {
+      "slot": 1791381600,
+      "status": "partial",
+      "recordedAt": "2026-10-07T14:01:32.471Z",
+      "spent": {
+        "AI": "2067575861903103896",
+        "MEME": "13572338720135841337",
+        "MOO": "67311910372051680090",
+        "INU": "60476449258335989027"
+      },
+      "bought": "347265341559422237399327",
+      "burnTx": "0x9c791ff9ddf6ab0bcab09ed5d03908d8d12f9ebac0401679019a6ec569f34f07",
+      "swaps": [
+        {
+          "asset": "AI",
+          "amountIn": "2067575861903103896",
+          "out": "89099027138284991549225",
+          "tx": "0xa1f7c617be01ec180b298533baafec16083d72d10c3ff10b84c3677cd9ec312c"
+        },
+        {
+          "asset": "MEME",
+          "amountIn": "13572338720135841337",
+          "out": "76556784806016607662502",
+          "tx": "0xb4482431a4aff05f4ec1b8cc53e7c2017270a36c955b0bf07d578010875808f3"
+        },
+        {
+          "asset": "MOO",
+          "amountIn": "67311910372051680090",
+          "out": "121425561840103277264581",
+          "tx": "0x54220920741f44fbaca91d5b46d81fcd341a0379ba1f3856fe858efe5821c176"
+        },
+        {
+          "asset": "INU",
+          "amountIn": "60476449258335989027",
+          "out": "60183967775017360923019",
+          "tx": "0x9e832fdb9ef416de458eb031db092fac1ec5b8ceb4d9f4c168c764c172c4c19f"
+        }
+      ],
+      "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
     }
   },
-  "lastBuybackSlot": 1791295200
+  "lastBuybackSlot": 1791381600
 }
