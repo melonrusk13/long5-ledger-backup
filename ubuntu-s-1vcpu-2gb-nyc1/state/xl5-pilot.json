@@ -374,5 +374,22 @@
       "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
     }
   },
-  "lastBuybackSlot": 1791381600
+  "lastBuybackSlot": 1791381600,
+  "vaultBucket": {},
+  "vaultXl5": "0",
+  "vaultInFlight": null,
+  "vaultBuys": {},
+  "lastVaultSlot": 0,
+  "modeHistory": [
+    {
+      "from": 0,
+      "mode": "growth"
+    },
+    {
+      "from": 1791410400,
+      "mode": "vault"
+    }
+  ],
+  "vaultLoyalty": null,
+  "vaultLoyaltyPast": []
 }

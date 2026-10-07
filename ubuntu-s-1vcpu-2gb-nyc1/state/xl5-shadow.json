@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "nextEpoch": 277,
-  "lastWindowEnd": 1791403200,
+  "nextEpoch": 278,
+  "lastWindowEnd": 1791406800,
   "windows": {
     "1790424000-1790427600": {
       "start": 1790424000,
@@ -1892,6 +1892,13 @@
       "epoch": 276,
       "status": "skipped",
       "recordedAt": "2026-10-07T20:00:28.055Z"
+    },
+    "1791403200-1791406800": {
+      "start": 1791403200,
+      "end": 1791406800,
+      "epoch": 277,
+      "status": "skipped",
+      "recordedAt": "2026-10-07T21:00:30.515Z"
     }
   },
   "dust": {
@@ -2446,7 +2453,7 @@
       "MOO": "445804142886702347160",
       "INU": "1004312559508735559054"
     },
-    "xl5": "3427683024498373118535642"
+    "xl5": "3490111387052288484313002"
   },
   "programStart": 0,
   "inFlight": null,
@@ -2470,5 +2477,22 @@
   "buybackBucket": {},
   "buybackInFlight": null,
   "buybacks": {},
-  "lastBuybackSlot": 0
+  "lastBuybackSlot": 0,
+  "vaultBucket": {},
+  "vaultXl5": "0",
+  "vaultInFlight": null,
+  "vaultBuys": {},
+  "lastVaultSlot": 0,
+  "modeHistory": [
+    {
+      "from": 0,
+      "mode": "growth"
+    },
+    {
+      "from": 1791406800,
+      "mode": "vault"
+    }
+  ],
+  "vaultLoyalty": null,
+  "vaultLoyaltyPast": []
 }
