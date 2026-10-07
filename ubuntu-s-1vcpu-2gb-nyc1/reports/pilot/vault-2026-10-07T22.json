@@ -1,0 +1,30 @@
+{
+  "kind": "vault",
+  "mode": "pilot",
+  "slot": "2026-10-07T22:00:00Z",
+  "status": "skipped-min",
+  "note": "bucket worth $0.0758 (lower prices) — below the $0.25 minimum; it waits for the next buyback",
+  "spent": {},
+  "spentUsd": 0,
+  "bought": "0",
+  "burned": "0",
+  "boughtUsd": 0,
+  "avgPriceUsd": null,
+  "xl5PriceUsd": 0.0000024923820964369753,
+  "swaps": [],
+  "burnTx": null,
+  "failed": null,
+  "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
+  "boughtTo": "vault",
+  "toVaultXl5": "0",
+  "xferTx": null,
+  "memesToVault": {},
+  "settings": {
+    "minUsd": 0.25,
+    "maxUsdPerSwap": 25,
+    "maxSlippagePct": 3,
+    "maxPriceGapPct": 10
+  },
+  "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 42.4%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; indexer gap > 10%, valued cautiously (cap at the higher, dust/minimum at the lower price): BONER 42.4%)",
+  "generatedAt": "2026-10-07T22:01:08.256Z"
+}

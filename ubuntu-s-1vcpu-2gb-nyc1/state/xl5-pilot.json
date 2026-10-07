@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 364,
+  "nextNonce": 374,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 27,
-  "lastWindowEnd": 1791396000,
+  "nextEpoch": 28,
+  "lastWindowEnd": 1791410400,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -199,6 +199,13 @@
       "epoch": 26,
       "status": "paid",
       "recordedAt": "2026-10-07T18:01:18.445Z"
+    },
+    "1791396000-1791410400": {
+      "start": 1791396000,
+      "end": 1791410400,
+      "epoch": 27,
+      "status": "paid",
+      "recordedAt": "2026-10-07T22:01:08.248Z"
     }
   },
   "dust": {
@@ -253,18 +260,23 @@
     },
     "0x547a10b63ab4c784a49da5805610b9ee2d74377c": {
       "AI": "5415961419506934",
+      "MEME": "66520714105758904",
       "BONER": "6185103845077171",
       "MOO": "20397082270709183"
     },
     "0x4dd69b23ab6f16f3f8219dba636354b67349b0e0": {
       "AI": "5219895713685954",
+      "MEME": "64112567194688651",
       "BONER": "5961194061194051",
-      "MOO": "19658678131105971"
+      "MOO": "19658678131105971",
+      "Xl5": "401213630758630579547"
     },
     "0xd1836f28f43e3f451120db79f3e40629e3438cd3": {
       "AI": "5043634029948744",
+      "MEME": "61947660122834373",
       "BONER": "5759898658099261",
-      "MOO": "18994858022638000"
+      "MOO": "18994858022638000",
+      "Xl5": "387665737349276541385"
     },
     "0x441ddb5f25b62c86abe35120b09dd591335488f6": {
       "AI": "3772965666057766",
@@ -304,13 +316,7 @@
     },
     "xl5": "0"
   },
-  "buybackBucket": {
-    "AI": "10315421788347009",
-    "MEME": "1342225334694104745",
-    "BONER": "52919078320637336",
-    "MOO": "336222992308398142",
-    "INU": "14086843652277774702"
-  },
+  "buybackBucket": {},
   "buybackInFlight": null,
   "buybacks": {
     "1791208800": {
@@ -375,11 +381,30 @@
     }
   },
   "lastBuybackSlot": 1791381600,
-  "vaultBucket": {},
+  "vaultBucket": {
+    "AI": "10315421788347009",
+    "MEME": "2439084866952758087",
+    "BONER": "52919078320637336",
+    "MOO": "336222992308398142",
+    "INU": "14086843652277774702"
+  },
   "vaultXl5": "0",
   "vaultInFlight": null,
-  "vaultBuys": {},
-  "lastVaultSlot": 0,
+  "vaultBuys": {
+    "1791410400": {
+      "slot": 1791410400,
+      "status": "skipped-min",
+      "recordedAt": "2026-10-07T22:01:08.254Z",
+      "spent": {},
+      "bought": "0",
+      "burnTx": null,
+      "swaps": [],
+      "note": "bucket worth $0.0758 (lower prices) — below the $0.25 minimum; it waits for the next buyback",
+      "dest": "vault",
+      "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797"
+    }
+  },
+  "lastVaultSlot": 1791410400,
   "modeHistory": [
     {
       "from": 0,
