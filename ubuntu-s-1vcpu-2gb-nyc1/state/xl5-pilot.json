@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 386,
+  "nextNonce": 391,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 30,
-  "lastWindowEnd": 1791439200,
+  "nextEpoch": 31,
+  "lastWindowEnd": 1791453600,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -220,6 +220,13 @@
       "epoch": 29,
       "status": "paid",
       "recordedAt": "2026-10-08T06:01:00.753Z"
+    },
+    "1791439200-1791453600": {
+      "start": 1791439200,
+      "end": 1791453600,
+      "epoch": 30,
+      "status": "paid",
+      "recordedAt": "2026-10-08T10:00:58.523Z"
     }
   },
   "dust": {
@@ -400,9 +407,9 @@
     "MEME": "12448723685969203721",
     "BONER": "52919078320637336",
     "MOO": "336222992308398142",
-    "INU": "89923108924520943152"
+    "INU": "104727064620925955831"
   },
-  "vaultXl5": "130029395229266491123947",
+  "vaultXl5": "144297556861913354709844",
   "vaultInFlight": null,
   "vaultBuys": {
     "1791410400": {
@@ -431,8 +438,8 @@
   ],
   "vaultLoyalty": {
     "since": 1791410400,
-    "windows": 2,
-    "lastWindowEnd": 1791439200,
+    "windows": 3,
+    "lastWindowEnd": 1791453600,
     "mins": {
       "0x2ca37ff95caf25366ef16fc2e655b78a165d125f": "1",
       "0x419c01171a446a17182ea5b32b09a19016954cd4": "1",
