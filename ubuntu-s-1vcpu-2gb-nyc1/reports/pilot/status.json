@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-08T10:00:58.581Z",
+    "at": "2026-10-08T14:01:24.671Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-08T10:00:58.583Z",
+  "updatedAt": "2026-10-08T14:01:24.672Z",
   "lastWindow": {
-    "epoch": 30,
-    "start": "2026-10-08T06:00:00Z",
-    "end": "2026-10-08T10:00:00Z",
+    "epoch": 31,
+    "start": "2026-10-08T10:00:00Z",
+    "end": "2026-10-08T14:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -24,7 +24,7 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 35,
+    "epochsRemaining": 33,
     "lowGas": true
   },
   "lastBuyback": {
@@ -36,10 +36,10 @@
     "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   },
   "lastVaultBuy": {
-    "slot": "2026-10-07T22:00:00Z",
-    "status": "skipped-min",
-    "bought": "0",
-    "toVaultXl5": "0",
-    "note": "bucket worth $0.0758 (lower prices) — below the $0.25 minimum; it waits for the next buyback"
+    "slot": "2026-10-08T14:00:00Z",
+    "status": "partial",
+    "bought": "371015793587402861228168",
+    "toVaultXl5": "345591417995200874621000",
+    "note": "AI: worth under $0.05; BONER: BONER price 48.4% off par's indexer (limit 10%)"
   }
 }
