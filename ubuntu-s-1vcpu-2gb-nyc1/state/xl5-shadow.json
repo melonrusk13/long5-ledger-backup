@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "nextEpoch": 301,
-  "lastWindowEnd": 1791489600,
+  "nextEpoch": 302,
+  "lastWindowEnd": 1791493200,
   "windows": {
     "1790424000-1790427600": {
       "start": 1790424000,
@@ -2060,6 +2060,13 @@
       "epoch": 300,
       "status": "paid",
       "recordedAt": "2026-10-08T20:11:16.374Z"
+    },
+    "1791489600-1791493200": {
+      "start": 1791489600,
+      "end": 1791493200,
+      "epoch": 301,
+      "status": "paid",
+      "recordedAt": "2026-10-08T21:46:13.611Z"
     }
   },
   "dust": {
