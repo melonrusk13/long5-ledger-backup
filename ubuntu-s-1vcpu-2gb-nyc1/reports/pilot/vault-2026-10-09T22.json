@@ -1,0 +1,53 @@
+{
+  "kind": "vault",
+  "mode": "pilot",
+  "slot": "2026-10-09T22:00:00Z",
+  "status": "partial",
+  "note": "BONER: worth under $0.05; INU: INU price 10.0% off par's indexer (limit 10%)",
+  "spent": {
+    "AI": "3836415283632429612",
+    "MEME": "22355681053667390591",
+    "MOO": "70123334652371412438"
+  },
+  "spentUsd": 0.9372793853906505,
+  "bought": "403884633375215344500013",
+  "burned": "0",
+  "boughtUsd": 0.9074099477693226,
+  "avgPriceUsd": 0.0000023206611689034054,
+  "xl5PriceUsd": 0.000002246705798599483,
+  "swaps": [
+    {
+      "asset": "AI",
+      "amountIn": "3836415283632429612",
+      "out": "157797628055506950306497",
+      "tx": "0x2e6609e347d438aab7661c383837ee2c51b495cd48435619a574526d966ab896"
+    },
+    {
+      "asset": "MEME",
+      "amountIn": "22355681053667390591",
+      "out": "129864380463784762610892",
+      "tx": "0x193e50098dd9045bfd550659361b05a51f6e4e965111b433d585b5eda1cf5853"
+    },
+    {
+      "asset": "MOO",
+      "amountIn": "70123334652371412438",
+      "out": "116222624855923631582624",
+      "tx": "0x6a4d09ffbaca9d86a8d38317b2d2b2aecb87079fa4a3ea8f3266b6ddce6e21ee"
+    }
+  ],
+  "burnTx": null,
+  "failed": null,
+  "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
+  "boughtTo": "vault",
+  "toVaultXl5": "460285244822921140328728",
+  "xferTx": "0x490fcc670dcf4729812061e60e8382158c2e3bdabbce20d37d00466dc7710144",
+  "memesToVault": {},
+  "settings": {
+    "minUsd": 0.25,
+    "maxUsdPerSwap": 25,
+    "maxSlippagePct": 3,
+    "maxPriceGapPct": 10
+  },
+  "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 46.4%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; indexer gap > 10%, valued cautiously (cap at the higher, dust/minimum at the lower price): INU 10.0%; stale par indexer (no trade for 6h+), on-chain price used: BONER 46.4%, last trade 90h ago)",
+  "generatedAt": "2026-10-09T22:34:02.194Z"
+}

@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-09T22:07:15.627Z",
-    "outcome": "error",
-    "detail": "HTTP request failed.\n\nStatus: 403\nURL: https://rpc.mainnet.chain.robinhood.com/\nRequest body: {\"method\":\"eth_blockNumber\"}\n\nDetails: \"<!DOCTYPE html><html lang=\\\"en-US\\\"><head><title>Just a moment...</title><meta http-equiv=\\\"Content-Type\\\" content=\\\"text/html; charset=UTF-8\\\"><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=Edge\\\"><meta name=\\\"robots\\\" content=\\\"noindex,nofollow\\\"><meta name=\\\"viewport\\\" content=\\\"width=device-width,initial-scale=1\\\"><meta http-equiv=\\\"content-security-policy\\\" content=\\\"default-src &#39;none&#39;; script-src &#39;nonce-ep4NHkoh4iEh1rygt6l3q2&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\\\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\\\"Segoe UI\\\",Roboto,\\\"Helvetica Neue\\\",Arial,\\\"Noto Sans\\\",sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\",\\\"Segoe UI Symbol\\\",\\\"Noto Color Emoji\\\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\\\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\\\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\\\"refresh\\\" content=\\\"360\\\"></head><body><div class=\\\"main-wrapper\\\" role=\\\"main\\\"><div class=\\\"main-content\\\"><noscript><div class=\\\"h2\\\"><span id=\\\"challenge-error-text\\\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\\\"ep4NHkoh4iEh1rygt6l3q2\\\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'hYN3XIiSvtKgekv7EJ0c4rasb5Gbs7xocDHdrg0Zf_Y-1791583635-1.2.1.1-kTcLe4x.oHHXjPVCbkcev2SFJvpJ80eZsg0LscwliJAt_yXTKY.5Nc_o_6YIjhc0',cITimeS: '1791583635',cN: 'ep4NHkoh4iEh1rygt6l3q2',cRay: 'a480b27a9a4a7dc7',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\\\"/?__cf_chl_tk=ljdzdj6fB7n.fZ4ZTV8zgy_2i_dR0OZuO2_v9McqvQM-1791583635-1.0.1.1-IBz9pYDg0SEsdhYmZtsfW9fDH5fo.QA.qDJbTrrRM30\\\",cvId: '3',cZone: 'rpc.mainnet.chain.robinhood.com',fa:\\\"/?__cf_chl_f_tk=ljdzdj6fB7n.fZ4ZTV8zgy_2i_dR0OZuO2_v9McqvQM-1791583635-1.0.1.1-IBz9pYDg0SEsdhYmZtsfW9fDH5fo.QA.qDJbTrrRM30\\\",md: 'sscsIKAucH5jtb.fYiXKO5C.VJUlBnKXYVtTVWXfdkM-1791583635-1.2.1.1-wIZ.30q9JrGdjFS6isNnP5UWQ87kEvKm7p.Zl8DDRaM1524SMqm8C36uAvqw9oLBqFk9iZc8gba68.plGQdK86LVTOcK4hSWyMWeDcWAhhRC4tBrWXp1XqAe1.cFHzGnWyulzn4hQoSg4tkK8kvonR1yVwnVdfG0UYvAm9.fS5h_jl0R_yhvRQ2Klr_uIX5zdAT6eyvHvIQtGoQqEyFH2F07yMD32pg_9bHvKjS5JwP205wFCYtAMaV2Xvs4wGfpqFAwoPVK5peS3wKrUDVkD3bGKDu9pO.DPwg9HcjiF2u4vFuiFILrYNqDXdTQMxnjx9bVXm4cox4jI0ACwfOpQHpaH4ArED4tp2rDOegUdIpx49ncTfVe4rUeGA2zafV4zjSv_TVfmXLIiULItTwX34pQ9R8e9x5EhyMbfra3dqSIxcqscbyY5Q5j8QaQlQ7Cxebkpp_tmwqXwIxWmGGL6Ya6kujNAlQ1LCUkTDxfHnncwJysEUwwHazEmNs7bKdr8j93oDGnj1vyqvbpuR_ACa8P7q.avJ17NkMUJOP996H6lz9xqs_hLd.5czhMwc8qZVNsFNHZgUkUfmaLPEH5J4dbNE1TVcJvfG07oo9q8NG3GzysOxQaImeHae0zRJ2Lhl3Nl_QXyHLxEsMUGUz8XkDk2727B_rJNRInsxFOynXQEizFzFpYReYK0jHKHQiLHRiVsHRfNAMCz1H9N7GZg925hlRLdnUAuN2bN655o6u0LwfkcdZs_uYerDgoQeNN1Vs6Jl8tmGYqQVSywxdljuglG02jQ2N0KLVc5uUWfp34TQrVZXZO1YP6t08S7TDW6vpYJLweDr7LqMJmPEmZmyufxIk9t.d96TZMa_WcKl2ddRvuOoDaw61M3gJCshZV2zDbt_dTwPq.IgBMkfY.DrZ.Xppft7.2mhaIMrRu8uk',mdrd: '',};var a = document.createElement('script');a.nonce = 'ep4NHkoh4iEh1rygt6l3q2';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a480b27a9a4a7dc7';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\\\"/?__cf_chl_rt_tk=ljdzdj6fB7n.fZ4ZTV8zgy_2i_dR0OZuO2_v9McqvQM-1791583635-1.0.1.1-IBz9pYDg0SEsdhYmZtsfW9fDH5fo.QA.qDJbTrrRM30\\\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>\"\nVersion: viem@2.56.9"
+    "at": "2026-10-09T22:34:02.365Z",
+    "outcome": "processed",
+    "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-09T22:07:15.627Z",
+  "updatedAt": "2026-10-09T22:34:02.366Z",
   "lastWindow": {
-    "epoch": 38,
-    "start": "2026-10-09T14:00:00Z",
-    "end": "2026-10-09T18:00:00Z",
+    "epoch": 39,
+    "start": "2026-10-09T18:00:00Z",
+    "end": "2026-10-09T22:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -36,10 +36,10 @@
     "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   },
   "lastVaultBuy": {
-    "slot": "2026-10-09T14:00:00Z",
+    "slot": "2026-10-09T22:00:00Z",
     "status": "partial",
-    "bought": "299441354721437966599691",
-    "toVaultXl5": "11673273294212179063649",
-    "note": "AI: worth under $0.05; MEME: worth under $0.05; BONER: worth under $0.05"
+    "bought": "403884633375215344500013",
+    "toVaultXl5": "460285244822921140328728",
+    "note": "BONER: worth under $0.05; INU: INU price 10.0% off par's indexer (limit 10%)"
   }
 }

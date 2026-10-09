@@ -1,99 +1,13 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": {
-    "window": {
-      "start": 1791568800,
-      "end": 1791583200
-    },
-    "epoch": 39,
-    "startedAt": "2026-10-09T22:00:50.180Z",
-    "balancesBefore": {
-      "AI": "2621966731426314382",
-      "MEME": "19394622391903514671",
-      "BONER": "187022178480874001",
-      "MOO": "71468226621605005103",
-      "INU": "7083064144640827809",
-      "Xl5": "324976707430099887039682"
-    },
-    "steps": [
-      {
-        "id": "collect",
-        "kind": "collect",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 453,
-        "txHash": "0x9e00511090056c92919311bb13aaa537c01547909cf7323f87526c6efc0958b8"
-      },
-      {
-        "id": "claim:AI",
-        "kind": "claim",
-        "asset": "AI",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 454,
-        "txHash": "0xe923f844c6995959984c335386599b48d18d07ec1caeb3d44d26c95a1b678cca"
-      },
-      {
-        "id": "claim:MEME",
-        "kind": "claim",
-        "asset": "MEME",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 455,
-        "txHash": "0x8eacf1314e3ef4135a2ee94d1cc3b3479723947a8ce68eb9620a5737e59903bd"
-      },
-      {
-        "id": "claim:MOO",
-        "kind": "claim",
-        "asset": "MOO",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 456,
-        "txHash": "0xcd8bb80b0cb229fb20a866e9e3b84854f561928f2b9f1784b51576d2b648e392"
-      },
-      {
-        "id": "claim:INU",
-        "kind": "claim",
-        "asset": "INU",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 457,
-        "txHash": "0x5da5f4997c47f623d2b7fe349899d098af1c42adde57f6e6939dedaa4ea5d59e"
-      },
-      {
-        "id": "claim:Xl5",
-        "kind": "claim",
-        "asset": "Xl5",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 458,
-        "txHash": "0x900f89fb678a8755fe3f7c1b504499c72e92cdbff55963b959302836dc8f64df"
-      }
-    ],
-    "collected": {
-      "AI": "1601147650791588675",
-      "MEME": "3942049503983947481",
-      "BONER": "0",
-      "MOO": "0",
-      "INU": "75173190900966666672",
-      "Xl5": "170121770951161450512770"
-    },
-    "unexpectedInflow": {
-      "AI": "0",
-      "MEME": "0",
-      "BONER": "0",
-      "MOO": "0",
-      "INU": "0",
-      "Xl5": "0"
-    }
-  },
+  "inFlight": null,
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 453,
+  "nextNonce": 473,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -101,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 39,
-  "lastWindowEnd": 1791568800,
+  "nextEpoch": 40,
+  "lastWindowEnd": 1791583200,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -369,6 +283,13 @@
       "epoch": 38,
       "status": "paid",
       "recordedAt": "2026-10-09T18:07:19.083Z"
+    },
+    "1791568800-1791583200": {
+      "start": 1791568800,
+      "end": 1791583200,
+      "epoch": 39,
+      "status": "paid",
+      "recordedAt": "2026-10-09T22:33:44.521Z"
     }
   },
   "dust": {
@@ -545,13 +466,13 @@
   },
   "lastBuybackSlot": 1791381600,
   "vaultBucket": {
-    "AI": "2555497162999158672",
-    "MEME": "19202041450480232607",
+    "AI": "0",
+    "MEME": "0",
     "BONER": "52919078320637336",
-    "MOO": "70123334652371412438",
-    "INU": "7083064144640827660"
+    "MOO": "0",
+    "INU": "67221616865414160997"
   },
-  "vaultXl5": "324187828061991979918512",
+  "vaultXl5": "0",
   "vaultInFlight": null,
   "vaultBuys": {
     "1791410400": {
@@ -662,9 +583,46 @@
       "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
       "toVaultXl5": "11673273294212179063649",
       "xferTx": "0x0ec2b53f891631d254d5c13afc0e9b537d81774bc8578720cb32798559b02392"
+    },
+    "1791583200": {
+      "slot": 1791583200,
+      "status": "partial",
+      "recordedAt": "2026-10-09T22:34:02.098Z",
+      "spent": {
+        "AI": "3836415283632429612",
+        "MEME": "22355681053667390591",
+        "MOO": "70123334652371412438"
+      },
+      "bought": "403884633375215344500013",
+      "burnTx": null,
+      "swaps": [
+        {
+          "asset": "AI",
+          "amountIn": "3836415283632429612",
+          "out": "157797628055506950306497",
+          "tx": "0x2e6609e347d438aab7661c383837ee2c51b495cd48435619a574526d966ab896"
+        },
+        {
+          "asset": "MEME",
+          "amountIn": "22355681053667390591",
+          "out": "129864380463784762610892",
+          "tx": "0x193e50098dd9045bfd550659361b05a51f6e4e965111b433d585b5eda1cf5853"
+        },
+        {
+          "asset": "MOO",
+          "amountIn": "70123334652371412438",
+          "out": "116222624855923631582624",
+          "tx": "0x6a4d09ffbaca9d86a8d38317b2d2b2aecb87079fa4a3ea8f3266b6ddce6e21ee"
+        }
+      ],
+      "note": "BONER: worth under $0.05; INU: INU price 10.0% off par's indexer (limit 10%)",
+      "dest": "vault",
+      "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
+      "toVaultXl5": "460285244822921140328728",
+      "xferTx": "0x490fcc670dcf4729812061e60e8382158c2e3bdabbce20d37d00466dc7710144"
     }
   },
-  "lastVaultSlot": 1791554400,
+  "lastVaultSlot": 1791583200,
   "modeHistory": [
     {
       "from": 0,
@@ -677,8 +635,8 @@
   ],
   "vaultLoyalty": {
     "since": 1791410400,
-    "windows": 11,
-    "lastWindowEnd": 1791568800,
+    "windows": 12,
+    "lastWindowEnd": 1791583200,
     "mins": {
       "0x2ca37ff95caf25366ef16fc2e655b78a165d125f": "1",
       "0x419c01171a446a17182ea5b32b09a19016954cd4": "1",
