@@ -1,7 +1,93 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": null,
+  "inFlight": {
+    "window": {
+      "start": 1791568800,
+      "end": 1791583200
+    },
+    "epoch": 39,
+    "startedAt": "2026-10-09T22:00:50.180Z",
+    "balancesBefore": {
+      "AI": "2621966731426314382",
+      "MEME": "19394622391903514671",
+      "BONER": "187022178480874001",
+      "MOO": "71468226621605005103",
+      "INU": "7083064144640827809",
+      "Xl5": "324976707430099887039682"
+    },
+    "steps": [
+      {
+        "id": "collect",
+        "kind": "collect",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 453,
+        "txHash": "0x9e00511090056c92919311bb13aaa537c01547909cf7323f87526c6efc0958b8"
+      },
+      {
+        "id": "claim:AI",
+        "kind": "claim",
+        "asset": "AI",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 454,
+        "txHash": "0xe923f844c6995959984c335386599b48d18d07ec1caeb3d44d26c95a1b678cca"
+      },
+      {
+        "id": "claim:MEME",
+        "kind": "claim",
+        "asset": "MEME",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 455,
+        "txHash": "0x8eacf1314e3ef4135a2ee94d1cc3b3479723947a8ce68eb9620a5737e59903bd"
+      },
+      {
+        "id": "claim:MOO",
+        "kind": "claim",
+        "asset": "MOO",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 456,
+        "txHash": "0xcd8bb80b0cb229fb20a866e9e3b84854f561928f2b9f1784b51576d2b648e392"
+      },
+      {
+        "id": "claim:INU",
+        "kind": "claim",
+        "asset": "INU",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 457,
+        "txHash": "0x5da5f4997c47f623d2b7fe349899d098af1c42adde57f6e6939dedaa4ea5d59e"
+      },
+      {
+        "id": "claim:Xl5",
+        "kind": "claim",
+        "asset": "Xl5",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 458,
+        "txHash": "0x900f89fb678a8755fe3f7c1b504499c72e92cdbff55963b959302836dc8f64df"
+      }
+    ],
+    "collected": {
+      "AI": "1601147650791588675",
+      "MEME": "3942049503983947481",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "75173190900966666672",
+      "Xl5": "170121770951161450512770"
+    },
+    "unexpectedInflow": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    }
+  },
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
