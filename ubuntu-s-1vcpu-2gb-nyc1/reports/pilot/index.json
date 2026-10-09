@@ -1,11 +1,96 @@
 {
   "version": 3,
   "series": "xl5",
-  "updatedAt": "2026-10-08T14:01:05.279Z",
+  "updatedAt": "2026-10-09T12:33:26.727Z",
   "epochLengthSeconds": 14400,
-  "nextEpochStart": 1791468000,
-  "latestEpoch": 31,
+  "nextEpochStart": 1791540000,
+  "latestEpoch": 36,
   "reports": [
+    {
+      "epoch": 36,
+      "file": "epoch-36.json",
+      "mode": "pilot",
+      "startTime": 1791525600,
+      "endTime": 1791540000,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 35,
+      "file": "epoch-35.json",
+      "mode": "pilot",
+      "startTime": 1791511200,
+      "endTime": 1791525600,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 34,
+      "file": "epoch-34.json",
+      "mode": "pilot",
+      "startTime": 1791496800,
+      "endTime": 1791511200,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 33,
+      "file": "epoch-33.json",
+      "mode": "pilot",
+      "startTime": 1791482400,
+      "endTime": 1791496800,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 32,
+      "file": "epoch-32.json",
+      "mode": "pilot",
+      "startTime": 1791468000,
+      "endTime": 1791482400,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0.69,
+        "fees": 3.47,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
     {
       "epoch": 31,
       "file": "epoch-31.json",

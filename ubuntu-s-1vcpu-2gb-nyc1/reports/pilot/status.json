@@ -6,20 +6,17 @@
   "lock": {
     "blocked": false
   },
-  "alert": {
-    "at": "2026-10-09T07:51:53.312Z",
-    "message": "held — price check failed (limit 10%): BONER: on-chain 1.1427e-5 ETH vs par indexer 2.4435e-5 ETH (53.2% apart — over 50%, data looks broken)"
-  },
+  "alert": null,
   "lastRun": {
-    "at": "2026-10-09T12:07:11.176Z",
-    "outcome": "error",
-    "detail": "EROFS: read-only file system, open '/home/long5/long5-tech/rewards/cache/xl5-pilot-transfers.json.tmp'"
+    "at": "2026-10-09T12:33:42.604Z",
+    "outcome": "processed",
+    "detail": "5 window(s) settled"
   },
-  "updatedAt": "2026-10-09T12:07:11.176Z",
+  "updatedAt": "2026-10-09T12:33:42.607Z",
   "lastWindow": {
-    "epoch": 31,
-    "start": "2026-10-08T10:00:00Z",
-    "end": "2026-10-08T14:00:00Z",
+    "epoch": 36,
+    "start": "2026-10-09T06:00:00Z",
+    "end": "2026-10-09T10:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -27,7 +24,7 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 33,
+    "epochsRemaining": 35,
     "lowGas": true
   },
   "lastBuyback": {
@@ -39,10 +36,10 @@
     "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   },
   "lastVaultBuy": {
-    "slot": "2026-10-08T14:00:00Z",
+    "slot": "2026-10-08T22:00:00Z",
     "status": "partial",
-    "bought": "371015793587402861228168",
-    "toVaultXl5": "345591417995200874621000",
-    "note": "AI: worth under $0.05; BONER: BONER price 48.4% off par's indexer (limit 10%)"
+    "bought": "378820312687554038153298",
+    "toVaultXl5": "662759160054895085410333",
+    "note": "BONER: worth under $0.05; INU: INU price 10.9% off par's indexer (limit 10%)"
   }
 }
