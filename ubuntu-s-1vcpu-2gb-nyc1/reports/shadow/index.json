@@ -1,11 +1,96 @@
 {
   "version": 3,
   "series": "xl5",
-  "updatedAt": "2026-10-09T02:09:58.167Z",
+  "updatedAt": "2026-10-09T07:00:29.023Z",
   "epochLengthSeconds": 3600,
-  "nextEpochStart": 1791511200,
-  "latestEpoch": 306,
+  "nextEpochStart": 1791529200,
+  "latestEpoch": 311,
   "reports": [
+    {
+      "epoch": 311,
+      "file": "epoch-311.json",
+      "mode": "shadow",
+      "startTime": 1791525600,
+      "endTime": 1791529200,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0.06,
+        "fees": 0.32,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 310,
+      "file": "epoch-310.json",
+      "mode": "shadow",
+      "startTime": 1791522000,
+      "endTime": 1791525600,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 309,
+      "file": "epoch-309.json",
+      "mode": "shadow",
+      "startTime": 1791518400,
+      "endTime": 1791522000,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 308,
+      "file": "epoch-308.json",
+      "mode": "shadow",
+      "startTime": 1791514800,
+      "endTime": 1791518400,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 307,
+      "file": "epoch-307.json",
+      "mode": "shadow",
+      "startTime": 1791511200,
+      "endTime": 1791514800,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0.04,
+        "fees": 0.22,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
     {
       "epoch": 306,
       "file": "epoch-306.json",
