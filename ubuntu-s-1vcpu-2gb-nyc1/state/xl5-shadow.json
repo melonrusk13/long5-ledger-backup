@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "nextEpoch": 349,
-  "lastWindowEnd": 1791662400,
+  "nextEpoch": 351,
+  "lastWindowEnd": 1791669600,
   "windows": {
     "1790424000-1790427600": {
       "start": 1790424000,
@@ -2396,6 +2396,20 @@
       "epoch": 348,
       "status": "paid",
       "recordedAt": "2026-10-10T20:07:30.468Z"
+    },
+    "1791662400-1791666000": {
+      "start": 1791662400,
+      "end": 1791666000,
+      "epoch": 349,
+      "status": "paid",
+      "recordedAt": "2026-10-10T21:12:44.566Z"
+    },
+    "1791666000-1791669600": {
+      "start": 1791666000,
+      "end": 1791669600,
+      "epoch": 350,
+      "status": "paid",
+      "recordedAt": "2026-10-10T22:04:22.168Z"
     }
   },
   "dust": {

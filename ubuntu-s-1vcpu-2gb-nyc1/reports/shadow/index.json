@@ -1,11 +1,45 @@
 {
   "version": 3,
   "series": "xl5",
-  "updatedAt": "2026-10-10T20:07:30.466Z",
+  "updatedAt": "2026-10-10T22:04:22.166Z",
   "epochLengthSeconds": 3600,
-  "nextEpochStart": 1791662400,
-  "latestEpoch": 348,
+  "nextEpochStart": 1791669600,
+  "latestEpoch": 350,
   "reports": [
+    {
+      "epoch": 350,
+      "file": "epoch-350.json",
+      "mode": "shadow",
+      "startTime": 1791666000,
+      "endTime": 1791669600,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0.08,
+        "fees": 0.4,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
+    {
+      "epoch": 349,
+      "file": "epoch-349.json",
+      "mode": "shadow",
+      "startTime": 1791662400,
+      "endTime": 1791666000,
+      "status": "paid",
+      "eligibleCount": 19,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0.02,
+        "fees": 0.1,
+        "carriedOut": 0
+      },
+      "tradeCoverage": "full"
+    },
     {
       "epoch": 348,
       "file": "epoch-348.json",
