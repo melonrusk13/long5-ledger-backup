@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-10T14:07:35.879Z",
+    "at": "2026-10-10T18:07:17.099Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-10T14:07:35.881Z",
+  "updatedAt": "2026-10-10T18:07:17.100Z",
   "lastWindow": {
-    "epoch": 43,
-    "start": "2026-10-10T10:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
+    "epoch": 44,
+    "start": "2026-10-10T14:00:00Z",
+    "end": "2026-10-10T18:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
