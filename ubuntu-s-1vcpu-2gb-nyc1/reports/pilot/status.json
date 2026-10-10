@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-10T10:06:59.152Z",
+    "at": "2026-10-10T14:07:35.879Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-10T10:06:59.154Z",
+  "updatedAt": "2026-10-10T14:07:35.881Z",
   "lastWindow": {
-    "epoch": 42,
-    "start": "2026-10-10T06:00:00Z",
-    "end": "2026-10-10T10:00:00Z",
+    "epoch": 43,
+    "start": "2026-10-10T10:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -24,7 +24,7 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 35,
+    "epochsRemaining": 34,
     "lowGas": true
   },
   "lastBuyback": {
@@ -36,10 +36,10 @@
     "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   },
   "lastVaultBuy": {
-    "slot": "2026-10-09T22:00:00Z",
+    "slot": "2026-10-10T14:00:00Z",
     "status": "partial",
-    "bought": "403884633375215344500013",
-    "toVaultXl5": "460285244822921140328728",
-    "note": "BONER: worth under $0.05; INU: INU price 10.0% off par's indexer (limit 10%)"
+    "bought": "491657317702074010882803",
+    "toVaultXl5": "423829849552657648617429",
+    "note": "BONER: worth under $0.05"
   }
 }
