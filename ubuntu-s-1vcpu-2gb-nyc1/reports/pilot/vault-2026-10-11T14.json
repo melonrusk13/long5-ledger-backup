@@ -1,0 +1,46 @@
+{
+  "kind": "vault",
+  "mode": "pilot",
+  "slot": "2026-10-11T14:00:00Z",
+  "status": "partial",
+  "note": "AI: worth under $0.05; BONER: worth under $0.05; MOO: worth under $0.05",
+  "spent": {
+    "MEME": "16616225950174916182",
+    "INU": "118883966610377514978"
+  },
+  "spentUsd": 0.4395050662393481,
+  "bought": "194274131133896665395040",
+  "burned": "0",
+  "boughtUsd": 0.4255764643402827,
+  "avgPriceUsd": 0.0000022622933052081678,
+  "xl5PriceUsd": 0.0000021905976974719755,
+  "swaps": [
+    {
+      "asset": "MEME",
+      "amountIn": "16616225950174916182",
+      "out": "93162892314723611032082",
+      "tx": "0x4c02cbd6f4cecdcc537b8d9358aa5368d09bb382ff7e29d4e1ec6120d207287d"
+    },
+    {
+      "asset": "INU",
+      "amountIn": "118883966610377514978",
+      "out": "101111238819173054362958",
+      "tx": "0xf2f8137b3e3608920de6f2f20f9360cc953306667860f9b43685008f4d8b2db1"
+    }
+  ],
+  "burnTx": null,
+  "failed": null,
+  "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
+  "boughtTo": "vault",
+  "toVaultXl5": "210395819043234518735486",
+  "xferTx": "0xcaee8f7a7f169d8de5b48b520057fbcddbcaa3ba4dce59744e3d6675a79771cc",
+  "memesToVault": {},
+  "settings": {
+    "minUsd": 0.25,
+    "maxUsdPerSwap": 25,
+    "maxSlippagePct": 3,
+    "maxPriceGapPct": 10
+  },
+  "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 48.1%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; stale par indexer (no trade for 6h+), on-chain price used: BONER 48.1%, last trade 129h ago)",
+  "generatedAt": "2026-10-11T14:01:10.590Z"
+}
