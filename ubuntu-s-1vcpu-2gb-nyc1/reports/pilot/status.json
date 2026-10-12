@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-12T22:05:56.679Z",
-    "outcome": "error",
-    "detail": "Missing or invalid parameters.\nDouble check you have provided the correct parameters.\n\nURL: https://robinhood-mainnet.g.alchemy.com/<redacted>\nRequest body: {\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f88f8212378202878084016f6b60830123c1941c27e8f0c2a754db23ab1608fa09c068d54d438680a432f289cf000000000000000000000000d9db30bb0d2b8d2eae3826a1372117e058791e18c080a07d820df0d421988ca854a06ff0294e0c7f2f45020010f381a24479109b519ee5a0274ff2e4370f15425ae13f7dedd64930415c80046b7345cfbf4264341441c4b7\"]}\n\nDetails: failed to publish transaction to any of the forwarding targets\nVersion: viem@2.56.9"
+    "at": "2026-10-12T22:16:52.252Z",
+    "outcome": "processed",
+    "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-12T22:05:56.680Z",
+  "updatedAt": "2026-10-12T22:16:52.253Z",
   "lastWindow": {
-    "epoch": 56,
-    "start": "2026-10-12T14:00:00Z",
-    "end": "2026-10-12T18:00:00Z",
+    "epoch": 57,
+    "start": "2026-10-12T18:00:00Z",
+    "end": "2026-10-12T22:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -24,7 +24,7 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 32,
+    "epochsRemaining": 33,
     "lowGas": true
   },
   "lastBuyback": {
@@ -36,10 +36,10 @@
     "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   },
   "lastVaultBuy": {
-    "slot": "2026-10-12T14:00:00Z",
+    "slot": "2026-10-12T22:00:00Z",
     "status": "partial",
-    "bought": "280149392568234628072855",
-    "toVaultXl5": "338745781256473122478920",
-    "note": "BONER: worth under $0.05; INU: INU price 10.2% off par's indexer (limit 10%)"
+    "bought": "774745310047038221193363",
+    "toVaultXl5": "763592862520267350581416",
+    "note": "BONER: worth under $0.05"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "kind": "vault",
+  "mode": "pilot",
+  "slot": "2026-10-12T22:00:00Z",
+  "status": "partial",
+  "note": "BONER: worth under $0.05",
+  "spent": {
+    "AI": "2396868816374910836",
+    "MEME": "10199077353160164700",
+    "MOO": "171998013894038457404",
+    "INU": "433438855658680769180"
+  },
+  "spentUsd": 1.5115908426341358,
+  "bought": "774745310047038221193363",
+  "burned": "0",
+  "boughtUsd": 1.461465674328329,
+  "avgPriceUsd": 0.000001951080984978612,
+  "xl5PriceUsd": 0.0000018863820863137549,
+  "swaps": [
+    {
+      "asset": "AI",
+      "amountIn": "2396868816374910836",
+      "out": "107866429768198329018160",
+      "tx": "0x053a067781bd4bb1e25a0d098cae5beba01f41991a6587500821afe32d139bfd"
+    },
+    {
+      "asset": "MEME",
+      "amountIn": "10199077353160164700",
+      "out": "68030133867718784619487",
+      "tx": "0x7e28a7b387c9750d63757b2be1c68846772c3c9880307694fb1cb13d476c3041"
+    },
+    {
+      "asset": "MOO",
+      "amountIn": "171998013894038457404",
+      "out": "271643283555778952309017",
+      "tx": "0xbabfb3495ca301c691950e036312efab63b76906e33e11b7b89cc3b9eef4a32e"
+    },
+    {
+      "asset": "INU",
+      "amountIn": "433438855658680769180",
+      "out": "327205462855342155246699",
+      "tx": "0x01070c74347899245e77409658bfc5d6ec67334f92b299e8efa403a366be8ade"
+    }
+  ],
+  "burnTx": null,
+  "failed": null,
+  "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
+  "boughtTo": "vault",
+  "toVaultXl5": "763592862520267350581416",
+  "xferTx": "0xd7ca288c70ce7489504ca32ca411faa2cd520d5b005c44c81c0ed564d2b9df66",
+  "memesToVault": {},
+  "settings": {
+    "minUsd": 0.25,
+    "maxUsdPerSwap": 25,
+    "maxSlippagePct": 3,
+    "maxPriceGapPct": 10
+  },
+  "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 55.2%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; stale par indexer (no trade for 6h+), on-chain price used: BONER 55.2%, last trade 161h ago)",
+  "generatedAt": "2026-10-12T22:16:52.006Z"
+}
