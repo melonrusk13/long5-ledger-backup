@@ -7,7 +7,7 @@
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 635,
+  "nextNonce": 644,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 56,
-  "lastWindowEnd": 1791813600,
+  "nextEpoch": 57,
+  "lastWindowEnd": 1791828000,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -402,6 +402,13 @@
       "epoch": 55,
       "status": "paid",
       "recordedAt": "2026-10-12T14:01:27.468Z"
+    },
+    "1791813600-1791828000": {
+      "start": 1791813600,
+      "end": 1791828000,
+      "epoch": 56,
+      "status": "paid",
+      "recordedAt": "2026-10-12T18:18:28.282Z"
     }
   },
   "dust": {
@@ -578,13 +585,13 @@
   },
   "lastBuybackSlot": 1791381600,
   "vaultBucket": {
-    "AI": "0",
-    "MEME": "0",
+    "AI": "64169781477728956",
+    "MEME": "5742799243116937634",
     "BONER": "52919078320637336",
     "MOO": "0",
-    "INU": "84396537488813916634"
+    "INU": "285532314337639319632"
   },
-  "vaultXl5": "0",
+  "vaultXl5": "293321126173052758283342",
   "vaultInFlight": null,
   "vaultBuys": {
     "1791410400": {
@@ -925,8 +932,8 @@
   ],
   "vaultLoyalty": {
     "since": 1791410400,
-    "windows": 28,
-    "lastWindowEnd": 1791813600,
+    "windows": 29,
+    "lastWindowEnd": 1791828000,
     "mins": {
       "0x2ca37ff95caf25366ef16fc2e655b78a165d125f": "1",
       "0x419c01171a446a17182ea5b32b09a19016954cd4": "1",
@@ -1014,7 +1021,7 @@
       "0x51a6bf315a019d3bff529559081c64e8627dd60a": "8333191665512063622595894",
       "0x84224a153fc8289617574f23e37a4dcc380ca8d9": "7560456956713082561510189",
       "0x7add0b25484b903ae245fb910b9bcbe0d73706ab": "5373075148847338829584",
-      "0x17d1fefc4545e481a7140e0678def97b1128852a": "3245015511277534252255",
+      "0x17d1fefc4545e481a7140e0678def97b1128852a": "0",
       "0x285e6e29f61c755f978c6d827e202a3168d8e853": "3298187978976712551927",
       "0x70eb53ecf97b0a1ea007c7e3acfe609d5b842515": "21513781281703492123734",
       "0x2785b0cda9c3f68f130c5f8c3d3da29675ca5b3b": "9404165169987117627878",
