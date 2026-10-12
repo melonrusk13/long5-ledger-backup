@@ -8,11 +8,11 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-12T18:18:28.527Z",
-    "outcome": "processed",
-    "detail": "1 window(s) settled"
+    "at": "2026-10-12T22:05:56.679Z",
+    "outcome": "error",
+    "detail": "Missing or invalid parameters.\nDouble check you have provided the correct parameters.\n\nURL: https://robinhood-mainnet.g.alchemy.com/<redacted>\nRequest body: {\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f88f8212378202878084016f6b60830123c1941c27e8f0c2a754db23ab1608fa09c068d54d438680a432f289cf000000000000000000000000d9db30bb0d2b8d2eae3826a1372117e058791e18c080a07d820df0d421988ca854a06ff0294e0c7f2f45020010f381a24479109b519ee5a0274ff2e4370f15425ae13f7dedd64930415c80046b7345cfbf4264341441c4b7\"]}\n\nDetails: failed to publish transaction to any of the forwarding targets\nVersion: viem@2.56.9"
   },
-  "updatedAt": "2026-10-12T18:18:28.529Z",
+  "updatedAt": "2026-10-12T22:05:56.680Z",
   "lastWindow": {
     "epoch": 56,
     "start": "2026-10-12T14:00:00Z",

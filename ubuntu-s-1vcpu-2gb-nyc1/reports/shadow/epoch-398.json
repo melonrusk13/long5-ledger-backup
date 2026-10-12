@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "mode": "shadow",
+  "status": "paid",
+  "epoch": 398,
+  "startTime": 1791838800,
+  "endTime": 1791842400,
+  "epochLengthSeconds": 3600,
+  "nextEpochStart": 1791842400,
+  "startBlock": "86973602",
+  "endBlock": "87008210",
+  "fees": {
+    "five": {
+      "AI": "3016707065018516059",
+      "MEME": "5756211756257872132",
+      "BONER": "0",
+      "MOO": "166297055853415453787",
+      "INU": "191052118147841745595"
+    },
+    "xl5": "607522254041441918749767"
+  },
+  "carriedIn": {
+    "five": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0"
+    },
+    "xl5": "0"
+  },
+  "carriedOut": {
+    "five": {},
+    "xl5": "0"
+  },
+  "split": {
+    "holders": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    },
+    "burn": "0",
+    "team": {
+      "AI": "603341413003703211",
+      "MEME": "1151242351251574426",
+      "BONER": "0",
+      "MOO": "33259411170683090757",
+      "INU": "38210423629568349119",
+      "Xl5": "121504450808288383749953"
+    }
+  },
+  "eligibility": {
+    "minBalance": "1000000000000000000000000",
+    "eligibleCount": 18,
+    "totalWeight": "70535065676258165118965438",
+    "excludedAddresses": [
+      "0x6594ccf2e71474b5039a214fa58519b861d83577",
+      "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
+      "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+      "0x5826fbb6201daacd924a3d292841da9142952d59",
+      "0x1c27e8f0c2a754db23ab1608fa09c068d54d4386",
+      "0x0000000000000000000000000000000000000000",
+      "0x000000000000000000000000000000000000dead",
+      "0x48a097df16c7844a33b1c3d11ab353457846e13f",
+      "0x458d2a59c2f3dd32775a64ee72004561440d64df",
+      "0x28a5f3f898e99753e322fdce6efa8b294c215b9b",
+      "0x7189e0a93d661b53ce86fc4ec7ff0c5956e5b797"
+    ]
+  },
+  "wallets": [],
+  "transactions": {},
+  "splitMode": "vault",
+  "buybackBucketIn": {
+    "AI": "2413365652014812847",
+    "MEME": "4604969405006297705",
+    "MOO": "133037644682732363029",
+    "INU": "152841694518273396476"
+  },
+  "bucketTo": "vault",
+  "vaultXl5In": "486017803233153534999813",
+  "cap": null,
+  "unexpectedInflow": {},
+  "skippedRecipients": [],
+  "usd": {
+    "pricedAt": 1791842411,
+    "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 52.9%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; stale par indexer (no trade for 6h+), on-chain price used: BONER 52.9%, last trade 161h ago)",
+    "staleIndexer": [
+      {
+        "asset": "BONER",
+        "chainEth": 0.000011520000988181498,
+        "indexerEth": 0.000024434728460605202,
+        "diffPct": 52.8539840057786,
+        "lastTradeAt": 1791263003,
+        "hoursSinceTrade": 160.94666666666666
+      }
+    ],
+    "anchorsUnusable": [
+      {
+        "asset": "BONER",
+        "reason": "zero active liquidity",
+        "liquidity": "0",
+        "tick": -887272
+      }
+    ],
+    "prices": {
+      "Xl5": 0.000002,
+      "AI": 0.092102,
+      "MEME": 0.013947,
+      "BONER": 0.028697,
+      "MOO": 0.003133,
+      "INU": 0.001549
+    },
+    "fees": {
+      "AI": 0.28,
+      "MEME": 0.08,
+      "BONER": 0,
+      "MOO": 0.52,
+      "INU": 0.3,
+      "Xl5": 1.2,
+      "total": 2.38
+    },
+    "holders": {
+      "AI": 0,
+      "MEME": 0,
+      "BONER": 0,
+      "MOO": 0,
+      "INU": 0,
+      "Xl5": 0,
+      "total": 0
+    },
+    "burn": 0,
+    "team": {
+      "AI": 0.06,
+      "MEME": 0.02,
+      "BONER": 0,
+      "MOO": 0.1,
+      "INU": 0.06,
+      "Xl5": 0.24,
+      "total": 0.48
+    },
+    "carriedIn": 0,
+    "carriedOut": 0
+  },
+  "meta": {
+    "generatedAt": "2026-10-12T22:00:13.053Z",
+    "tradeCount": 40,
+    "tradeCoverage": "full",
+    "note": null,
+    "gasAlert": {
+      "address": "0x6594ccF2e71474b5039A214fA58519b861D83577",
+      "balanceEth": "0.00821597",
+      "epochCostEth": "0.00024461",
+      "epochsRemaining": 33,
+      "lowGas": false,
+      "insufficientGas": false,
+      "configured": true
+    }
+  }
+}
