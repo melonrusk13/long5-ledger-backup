@@ -1,0 +1,60 @@
+{
+  "kind": "vault",
+  "mode": "pilot",
+  "slot": "2026-10-13T22:00:00Z",
+  "status": "partial",
+  "note": "MOO: worth under $0.05",
+  "spent": {
+    "AI": "993061319877133662",
+    "MEME": "21487179297842475111",
+    "BONER": "10345593483264972398",
+    "INU": "362604237496831202020"
+  },
+  "spentUsd": 1.0027860258568029,
+  "bought": "560676090807690337930042",
+  "burned": "0",
+  "boughtUsd": 0.9703454466638766,
+  "avgPriceUsd": 0.0000017885300306139763,
+  "xl5PriceUsd": 0.0000017306702792802007,
+  "swaps": [
+    {
+      "asset": "AI",
+      "amountIn": "993061319877133662",
+      "out": "48366899603248880463770",
+      "tx": "0x78166dbdc993a6f0cb919bf9d5b1b4660c9310e7bc5d273ba1c51f7ab8710b11"
+    },
+    {
+      "asset": "MEME",
+      "amountIn": "21487179297842475111",
+      "out": "139335330527514339710694",
+      "tx": "0xd471513fb2bacdfca5ab72f8193d24b8126e1fb6191d3e77782c618f203ca272"
+    },
+    {
+      "asset": "BONER",
+      "amountIn": "10345593483264972398",
+      "out": "135459398076350772736567",
+      "tx": "0x81a5b02431d768d60cb1f1e9c1668f9f65399da62f62d7cab276be15e90e08c2"
+    },
+    {
+      "asset": "INU",
+      "amountIn": "362604237496831202020",
+      "out": "237514462600576345019011",
+      "tx": "0xf43d30d1012ce42654f2a01e1ac947a10d0d11bd2865563432d723bd94fdd203"
+    }
+  ],
+  "burnTx": null,
+  "failed": null,
+  "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
+  "boughtTo": "vault",
+  "toVaultXl5": "548862360269837168111756",
+  "xferTx": "0x60765d35a70a6b35536a5dbc1a81eb0d8401e82f732f2cf4c14d2513b3f72ddc",
+  "memesToVault": {},
+  "settings": {
+    "minUsd": 0.25,
+    "maxUsdPerSwap": 25,
+    "maxSlippagePct": 3,
+    "maxPriceGapPct": 10
+  },
+  "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 5.7%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity)",
+  "generatedAt": "2026-10-13T22:01:41.628Z"
+}

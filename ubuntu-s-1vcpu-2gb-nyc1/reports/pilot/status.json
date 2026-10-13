@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-13T18:01:15.191Z",
+    "at": "2026-10-13T22:01:41.889Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-13T18:01:15.192Z",
+  "updatedAt": "2026-10-13T22:01:41.891Z",
   "lastWindow": {
-    "epoch": 62,
-    "start": "2026-10-13T14:00:00Z",
-    "end": "2026-10-13T18:00:00Z",
+    "epoch": 63,
+    "start": "2026-10-13T18:00:00Z",
+    "end": "2026-10-13T22:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -24,7 +24,7 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 31,
+    "epochsRemaining": 32,
     "lowGas": true
   },
   "lastBuyback": {
@@ -36,10 +36,10 @@
     "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   },
   "lastVaultBuy": {
-    "slot": "2026-10-13T14:00:00Z",
-    "status": "done",
-    "bought": "1543767142796932955445473",
-    "toVaultXl5": "1532810769297809885654817",
-    "note": null
+    "slot": "2026-10-13T22:00:00Z",
+    "status": "partial",
+    "bought": "560676090807690337930042",
+    "toVaultXl5": "548862360269837168111756",
+    "note": "MOO: worth under $0.05"
   }
 }
