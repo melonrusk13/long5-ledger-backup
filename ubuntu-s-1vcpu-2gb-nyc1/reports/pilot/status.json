@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-13T10:18:16.387Z",
+    "at": "2026-10-13T14:02:51.879Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-13T10:18:16.389Z",
+  "updatedAt": "2026-10-13T14:02:51.881Z",
   "lastWindow": {
-    "epoch": 60,
-    "start": "2026-10-13T06:00:00Z",
-    "end": "2026-10-13T10:00:00Z",
+    "epoch": 61,
+    "start": "2026-10-13T10:00:00Z",
+    "end": "2026-10-13T14:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -36,10 +36,10 @@
     "note": "BONER: BONER price 39.8% off par's indexer (limit 10%)"
   },
   "lastVaultBuy": {
-    "slot": "2026-10-12T22:00:00Z",
-    "status": "partial",
-    "bought": "774745310047038221193363",
-    "toVaultXl5": "763592862520267350581416",
-    "note": "BONER: worth under $0.05"
+    "slot": "2026-10-13T14:00:00Z",
+    "status": "done",
+    "bought": "1543767142796932955445473",
+    "toVaultXl5": "1532810769297809885654817",
+    "note": null
   }
 }
