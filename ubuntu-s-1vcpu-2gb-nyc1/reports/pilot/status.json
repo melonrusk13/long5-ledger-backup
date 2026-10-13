@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-13T14:02:51.879Z",
+    "at": "2026-10-13T18:01:15.191Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-13T14:02:51.881Z",
+  "updatedAt": "2026-10-13T18:01:15.192Z",
   "lastWindow": {
-    "epoch": 61,
-    "start": "2026-10-13T10:00:00Z",
-    "end": "2026-10-13T14:00:00Z",
+    "epoch": 62,
+    "start": "2026-10-13T14:00:00Z",
+    "end": "2026-10-13T18:00:00Z",
     "status": "paid",
     "note": null,
     "carriedInUsd": 0,
@@ -24,7 +24,7 @@
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 32,
+    "epochsRemaining": 31,
     "lowGas": true
   },
   "lastBuyback": {
