@@ -1,0 +1,67 @@
+{
+  "kind": "vault",
+  "mode": "pilot",
+  "slot": "2026-10-14T14:00:00Z",
+  "status": "done",
+  "note": null,
+  "spent": {
+    "AI": "5992573091749021402",
+    "MEME": "84265001265995917853",
+    "BONER": "35658723807558795260",
+    "MOO": "149510795409131232456",
+    "INU": "420709698408936307487"
+  },
+  "spentUsd": 3.9310750924941438,
+  "bought": "1841715302049539425069248",
+  "burned": "0",
+  "boughtUsd": 3.79948035834788,
+  "avgPriceUsd": 0.00000213446404453472,
+  "xl5PriceUsd": 0.0000020630117771838327,
+  "swaps": [
+    {
+      "asset": "AI",
+      "amountIn": "5992573091749021402",
+      "out": "289505529357886829526172",
+      "tx": "0xa0d9882f30594b7dff00aacb2ccc41b008a3b7ce19f03baa941234808122c9ca"
+    },
+    {
+      "asset": "MEME",
+      "amountIn": "84265001265995917853",
+      "out": "486727619884206448932316",
+      "tx": "0x63c83b2a1d9864cb4f5e0fa945ec1b4a5c3e920ec2d75232bda7957303c0c303"
+    },
+    {
+      "asset": "BONER",
+      "amountIn": "35658723807558795260",
+      "out": "392914684341250358282205",
+      "tx": "0x601b1ddc968052141164cdc9d9832bbb4348d79655a0f3f2f4c2ad15c35ee819"
+    },
+    {
+      "asset": "MOO",
+      "amountIn": "149510795409131232456",
+      "out": "257570252493252143496113",
+      "tx": "0xd0f8a22274dec97de511ab986bfc4aa145d67fdebabae39382b748ede2ec9170"
+    },
+    {
+      "asset": "INU",
+      "amountIn": "420709698408936307487",
+      "out": "414997215972943644832442",
+      "tx": "0x7bbbdc83595ada0eb9e079bb987933f2f14e73784c51ad5154956b62954981c0"
+    }
+  ],
+  "burnTx": null,
+  "failed": null,
+  "vault": "0x7189e0A93d661b53ce86Fc4ec7FF0C5956E5b797",
+  "boughtTo": "vault",
+  "toVaultXl5": "1877350145420509902991521",
+  "xferTx": "0x911969d5a81efaf4a91417eb7649ecdf0a2fa9b99b82b17ef0de87baeddc49b1",
+  "memesToVault": {},
+  "settings": {
+    "minUsd": 0.25,
+    "maxUsdPerSwap": 25,
+    "maxSlippagePct": 3,
+    "maxPriceGapPct": 10
+  },
+  "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 7.0%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity)",
+  "generatedAt": "2026-10-14T14:01:36.760Z"
+}
