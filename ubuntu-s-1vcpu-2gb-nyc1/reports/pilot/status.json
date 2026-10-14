@@ -8,17 +8,17 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-14T14:01:37.006Z",
+    "at": "2026-10-14T18:00:41.784Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-14T14:01:37.008Z",
+  "updatedAt": "2026-10-14T18:00:41.786Z",
   "lastWindow": {
-    "epoch": 67,
-    "start": "2026-10-14T10:00:00Z",
-    "end": "2026-10-14T14:00:00Z",
-    "status": "paid",
-    "note": null,
+    "epoch": 68,
+    "start": "2026-10-14T14:00:00Z",
+    "end": "2026-10-14T18:00:00Z",
+    "status": "skipped",
+    "note": "Hold mode: nothing collected or sent; this window's fees stay in par and are collected when the mode changes.",
     "carriedInUsd": 0,
     "carriedOutUsd": 0
   },
