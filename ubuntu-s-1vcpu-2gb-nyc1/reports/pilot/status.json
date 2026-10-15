@@ -8,11 +8,11 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-15T18:00:40.528Z",
-    "outcome": "processed",
-    "detail": "1 window(s) settled"
+    "at": "2026-10-15T19:35:47.699Z",
+    "outcome": "nothing-pending",
+    "detail": "0 window(s) settled"
   },
-  "updatedAt": "2026-10-15T18:00:40.530Z",
+  "updatedAt": "2026-10-15T19:35:47.703Z",
   "lastWindow": {
     "epoch": 74,
     "start": "2026-10-15T14:00:00Z",
