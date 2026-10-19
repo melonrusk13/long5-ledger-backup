@@ -15,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 94,
-  "lastWindowEnd": 1792360800,
+  "nextEpoch": 95,
+  "lastWindowEnd": 1792375200,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -668,6 +668,13 @@
       "epoch": 93,
       "status": "skipped",
       "recordedAt": "2026-10-18T22:00:43.612Z"
+    },
+    "1792360800-1792375200": {
+      "start": 1792360800,
+      "end": 1792375200,
+      "epoch": 94,
+      "status": "skipped",
+      "recordedAt": "2026-10-19T02:00:40.124Z"
     }
   },
   "dust": {
@@ -1383,8 +1390,8 @@
   ],
   "vaultLoyalty": {
     "since": 1791410400,
-    "windows": 66,
-    "lastWindowEnd": 1792360800,
+    "windows": 67,
+    "lastWindowEnd": 1792375200,
     "mins": {
       "0x2ca37ff95caf25366ef16fc2e655b78a165d125f": "1",
       "0x419c01171a446a17182ea5b32b09a19016954cd4": "1",
