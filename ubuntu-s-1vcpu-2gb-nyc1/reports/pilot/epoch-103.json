@@ -1,0 +1,203 @@
+{
+  "version": 3,
+  "mode": "pilot",
+  "status": "skipped",
+  "epoch": 103,
+  "startTime": 1792490400,
+  "endTime": 1792504800,
+  "epochLengthSeconds": 14400,
+  "nextEpochStart": 1792504800,
+  "startBlock": "93365648",
+  "endBlock": "93503701",
+  "fees": {
+    "five": {
+      "AI": "1366649528600389620",
+      "MEME": "0",
+      "BONER": "14007056453297592800",
+      "MOO": "106987184755913114554",
+      "INU": "105720703356185689450"
+    },
+    "xl5": "462774936443430775552616"
+  },
+  "carriedIn": {
+    "five": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0"
+    },
+    "xl5": "0"
+  },
+  "carriedOut": {
+    "five": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0"
+    },
+    "xl5": "0"
+  },
+  "split": {
+    "holders": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    },
+    "burn": "0",
+    "team": {
+      "AI": "0",
+      "MEME": "0",
+      "BONER": "0",
+      "MOO": "0",
+      "INU": "0",
+      "Xl5": "0"
+    }
+  },
+  "eligibility": {
+    "minBalance": "1000000000000000000000000",
+    "eligibleCount": 16,
+    "totalWeight": "64910644625069409700765674",
+    "excludedAddresses": [
+      "0x6594ccf2e71474b5039a214fa58519b861d83577",
+      "0x1538a44fb404929bc3b9c7a803b02b6975715b50",
+      "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+      "0x5826fbb6201daacd924a3d292841da9142952d59",
+      "0x1c27e8f0c2a754db23ab1608fa09c068d54d4386",
+      "0x0000000000000000000000000000000000000000",
+      "0x000000000000000000000000000000000000dead",
+      "0x48a097df16c7844a33b1c3d11ab353457846e13f",
+      "0x458d2a59c2f3dd32775a64ee72004561440d64df",
+      "0x28a5f3f898e99753e322fdce6efa8b294c215b9b",
+      "0x7189e0a93d661b53ce86fc4ec7ff0c5956e5b797"
+    ]
+  },
+  "wallets": [],
+  "transactions": {
+    "collect": "0xdbe240a6607f9b3c3c122e736d3d64a072939218767dd83c12e8f888b52d2629",
+    "claim": {
+      "AI": "0x2719855e737f46a911215a1659752836310916d7eca98245c3adea68303d917e",
+      "BONER": "0xef7697b22bd62586527d10e32bf9de49869ca59729febebf7aa84b6fed736f46",
+      "MOO": "0xffba698ae90f34b2bc7522aed98926d1fb5bbce39d10b0f1a92ddcae817ee32d",
+      "INU": "0x49c74802c673b99ed453ae6cb8154557dd2c8d9ea25c58dfbdb30e1ed42287b1",
+      "Xl5": "0x768fdd9864c50764270798a3ba55b46644902b8ea9ef2d0a64fc8fbec95d2204"
+    },
+    "approve": {},
+    "disperse": {},
+    "burn": null,
+    "team": {}
+  },
+  "splitMode": "hold",
+  "cap": {
+    "capUsd": 10,
+    "carriedOut": {
+      "five": {},
+      "xl5": "0"
+    }
+  },
+  "unexpectedInflow": {},
+  "skippedRecipients": [],
+  "usd": {
+    "pricedAt": 1792504834,
+    "priceSource": "Uniswap v4 pools on-chain (cross-checked with par indexer + Coinbase, largest gap 10.6%; anchor dropped (no usable price): BONER/ETH pool — zero active liquidity; indexer gap > 10%, valued cautiously (cap at the higher, dust/minimum at the lower price): INU 10.6%)",
+    "indexerGap": [
+      {
+        "asset": "INU",
+        "chainEth": 6.183719709882948e-7,
+        "indexerEth": 5.59200185181459e-7,
+        "diffPct": 10.581503256769253,
+        "lastTradeAt": 1792499367,
+        "capUsd": 0.0014858073919539838,
+        "floorUsd": 0.001343631030683271
+      }
+    ],
+    "anchorsUnusable": [
+      {
+        "asset": "BONER",
+        "reason": "zero active liquidity",
+        "liquidity": "0",
+        "tick": -887272
+      }
+    ],
+    "prices": {
+      "Xl5": 0.000001,
+      "AI": 0.077217,
+      "MEME": 0.010837,
+      "BONER": 0.013761,
+      "MOO": 0.002219,
+      "INU": 0.001486
+    },
+    "fees": {
+      "AI": 0.11,
+      "MEME": 0,
+      "BONER": 0.19,
+      "MOO": 0.24,
+      "INU": 0.16,
+      "Xl5": 0.69,
+      "total": 1.38
+    },
+    "holders": {
+      "AI": 0,
+      "MEME": 0,
+      "BONER": 0,
+      "MOO": 0,
+      "INU": 0,
+      "Xl5": 0,
+      "total": 0
+    },
+    "burn": 0,
+    "team": {
+      "AI": 0,
+      "MEME": 0,
+      "BONER": 0,
+      "MOO": 0,
+      "INU": 0,
+      "Xl5": 0,
+      "total": 0
+    },
+    "carriedIn": 0,
+    "carriedOut": 0
+  },
+  "meta": {
+    "generatedAt": "2026-10-20T14:00:53.510Z",
+    "tradeCount": 0,
+    "tradeCoverage": "full",
+    "note": "Hold mode: daily claim — par's fees collected into the Rewards wallet and held (not split, nothing sent).",
+    "gasAlert": {
+      "address": "0x6594ccF2e71474b5039A214fA58519b861D83577",
+      "balanceEth": "0.00769573",
+      "epochCostEth": "0.00024737",
+      "epochsRemaining": 31,
+      "lowGas": true,
+      "insufficientGas": false,
+      "configured": true
+    },
+    "gas": {
+      "txCount": 6,
+      "gasUsed": "1254335",
+      "costWei": "25726552794000",
+      "costEth": "0.00002573"
+    }
+  },
+  "held": {
+    "claimed": {
+      "AI": "1366649528600389620",
+      "BONER": "14007056453297592800",
+      "MOO": "106987184755913114554",
+      "INU": "105720703356185689450",
+      "Xl5": "462774936443430775552616"
+    },
+    "total": {
+      "AI": "23729555279423178074",
+      "MEME": "267458711992740468027",
+      "BONER": "217216350361109057439",
+      "MOO": "643699758822586614912",
+      "INU": "1892597804474081203511",
+      "Xl5": "7947569216099158920930804"
+    }
+  }
+}
