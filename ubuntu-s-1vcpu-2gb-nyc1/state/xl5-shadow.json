@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "nextEpoch": 616,
-  "lastWindowEnd": 1792623600,
+  "nextEpoch": 617,
+  "lastWindowEnd": 1792627200,
   "windows": {
     "1790424000-1790427600": {
       "start": 1790424000,
@@ -4265,6 +4265,13 @@
       "epoch": 615,
       "status": "skipped",
       "recordedAt": "2026-10-21T23:00:12.946Z"
+    },
+    "1792623600-1792627200": {
+      "start": 1792623600,
+      "end": 1792627200,
+      "epoch": 616,
+      "status": "skipped",
+      "recordedAt": "2026-10-22T00:00:14.113Z"
     }
   },
   "dust": {
