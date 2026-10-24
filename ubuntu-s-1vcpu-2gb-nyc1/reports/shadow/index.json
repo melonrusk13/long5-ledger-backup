@@ -1,11 +1,28 @@
 {
   "version": 3,
   "series": "xl5",
-  "updatedAt": "2026-10-24T11:00:13.657Z",
+  "updatedAt": "2026-10-24T12:00:12.847Z",
   "epochLengthSeconds": 3600,
-  "nextEpochStart": 1792839600,
-  "latestEpoch": 675,
+  "nextEpochStart": 1792843200,
+  "latestEpoch": 676,
   "reports": [
+    {
+      "epoch": 676,
+      "file": "epoch-676.json",
+      "mode": "shadow",
+      "startTime": 1792839600,
+      "endTime": 1792843200,
+      "status": "skipped",
+      "eligibleCount": 16,
+      "usd": {
+        "holders": 0,
+        "burn": 0,
+        "team": 0,
+        "fees": 0.08,
+        "carriedOut": 0.08
+      },
+      "tradeCoverage": "full"
+    },
     {
       "epoch": 675,
       "file": "epoch-675.json",
