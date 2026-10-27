@@ -8,23 +8,23 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-27T14:00:56.186Z",
-    "outcome": "error",
-    "detail": "Missing or invalid parameters.\nDouble check you have provided the correct parameters.\n\nURL: https://robinhood-mainnet.g.alchemy.com/<redacted>\nRequest body: {\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f88f82123782038280840171ccc0830123c1941c27e8f0c2a754db23ab1608fa09c068d54d438680a432f289cf00000000000000000000000063ee32ac3077d1fbd8a77ebba2a6ed4b8e9c1e18c001a03c63ae5f6cb51f95361d396aae125d3fc5c1942ae9af59baff822ca125414b3ba02f1284622fa98a253c397be67d80422933005c036d6b1d4fcb1e39f68555cf00\"]}\n\nDetails: nonce too low: address 0x6594ccF2e71474b5039A214fA58519b861D83577, tx: 898 state: 899\nVersion: viem@2.56.9"
+    "at": "2026-10-27T14:06:13.386Z",
+    "outcome": "processed",
+    "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-27T14:00:56.187Z",
+  "updatedAt": "2026-10-27T14:06:13.388Z",
   "lastWindow": {
-    "epoch": 144,
-    "start": "2026-10-27T06:00:00Z",
-    "end": "2026-10-27T10:00:00Z",
+    "epoch": 145,
+    "start": "2026-10-27T10:00:00Z",
+    "end": "2026-10-27T14:00:00Z",
     "status": "skipped",
-    "note": "Hold mode: nothing collected or sent; this window's fees stay in par until the daily claim.",
+    "note": "Hold mode: daily claim — par's fees collected into the Rewards wallet and held (not split, nothing sent).",
     "carriedInUsd": 0,
     "carriedOutUsd": 0
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 28,
+    "epochsRemaining": 30,
     "lowGas": true
   },
   "lastBuyback": {
