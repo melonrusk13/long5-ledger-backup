@@ -8,23 +8,23 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-10-29T10:00:41.751Z",
+    "at": "2026-10-29T14:00:41.496Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-10-29T10:00:41.753Z",
+  "updatedAt": "2026-10-29T14:00:41.498Z",
   "lastWindow": {
-    "epoch": 156,
-    "start": "2026-10-29T06:00:00Z",
-    "end": "2026-10-29T10:00:00Z",
+    "epoch": 157,
+    "start": "2026-10-29T10:00:00Z",
+    "end": "2026-10-29T14:00:00Z",
     "status": "skipped",
-    "note": "Hold mode: nothing collected or sent; this window's fees stay in par until the daily claim.",
+    "note": "Skipped: insufficient gas in the Rewards wallet (0 epochs). No collect; fees stay in the locker for the next window.",
     "carriedInUsd": 0,
     "carriedOutUsd": 0
   },
   "gas": {
     "wallet": "0x6594ccF2e71474b5039A214fA58519b861D83577",
-    "epochsRemaining": 29,
+    "epochsRemaining": 0,
     "lowGas": true
   },
   "lastBuyback": {
