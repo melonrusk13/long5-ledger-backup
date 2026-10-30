@@ -1,90 +1,13 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": {
-    "window": {
-      "start": 1793354400,
-      "end": 1793368800
-    },
-    "epoch": 163,
-    "startedAt": "2026-10-30T14:00:43.177Z",
-    "balancesBefore": {
-      "AI": "58510810882699857359",
-      "MEME": "767644463762214115502",
-      "BONER": "323777968918765103533",
-      "MOO": "1659591964687109120920",
-      "INU": "3030791141000896610915",
-      "Xl5": "16189332045263021096294569"
-    },
-    "holdClaim": true,
-    "steps": [
-      {
-        "id": "collect",
-        "kind": "collect",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 907,
-        "txHash": "0x4696ae2f635c256c33fd5aab0e122f91297f238b5520d2df036418b3d9387168"
-      },
-      {
-        "id": "claim:AI",
-        "kind": "claim",
-        "asset": "AI",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 908,
-        "txHash": "0xbcde2ceae2d859a1219e85f48904091372da19ebc63cc16b389febb69b18959b"
-      },
-      {
-        "id": "claim:MEME",
-        "kind": "claim",
-        "asset": "MEME",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 909,
-        "txHash": "0xda84490cf91c30c09d7c6a4b6f4d0c9eda2c41b014f66aa79cffed922f2f5a79"
-      },
-      {
-        "id": "claim:BONER",
-        "kind": "claim",
-        "asset": "BONER",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 910,
-        "txHash": "0xc68550f830d1f0d51263209337d6c74939258a93856f004d7fe5e2c937c77d92"
-      },
-      {
-        "id": "claim:MOO",
-        "kind": "claim",
-        "asset": "MOO",
-        "status": "done",
-        "attempts": 1,
-        "nonce": 911,
-        "txHash": "0xad0f7807038848d25faa276594c81d463c246854a12341bb6a38245dcf7c18af"
-      },
-      {
-        "id": "claim:INU",
-        "kind": "claim",
-        "asset": "INU",
-        "status": "sending",
-        "attempts": 1,
-        "nonce": 912,
-        "txHash": "0xeca42708c25d5d5967a05445fdc673082abd05d1380a075ca1a613f9715018f4"
-      },
-      {
-        "id": "claim:Xl5",
-        "kind": "claim",
-        "asset": "Xl5",
-        "status": "planned"
-      }
-    ]
-  },
+  "inFlight": null,
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
   "dustReleased": [],
   "holderCarry": {},
-  "nextNonce": 907,
+  "nextNonce": 914,
   "nonceAccepted": [],
   "minBalanceHistory": [
     {
@@ -92,8 +15,8 @@
       "minBalance": "1000000000000000000000000"
     }
   ],
-  "nextEpoch": 163,
-  "lastWindowEnd": 1793354400,
+  "nextEpoch": 164,
+  "lastWindowEnd": 1793368800,
   "windows": {
     "1791021600-1791036000": {
       "start": 1791021600,
@@ -1228,6 +1151,13 @@
       "epoch": 162,
       "status": "skipped",
       "recordedAt": "2026-10-30T10:00:44.501Z"
+    },
+    "1793354400-1793368800": {
+      "start": 1793354400,
+      "end": 1793368800,
+      "epoch": 163,
+      "status": "skipped",
+      "recordedAt": "2026-10-30T14:00:58.980Z"
     }
   },
   "dust": {
@@ -1943,8 +1873,8 @@
   ],
   "vaultLoyalty": {
     "since": 1791410400,
-    "windows": 135,
-    "lastWindowEnd": 1793354400,
+    "windows": 136,
+    "lastWindowEnd": 1793368800,
     "mins": {
       "0x2ca37ff95caf25366ef16fc2e655b78a165d125f": "1",
       "0x419c01171a446a17182ea5b32b09a19016954cd4": "1",
@@ -2303,12 +2233,12 @@
   "vaultLoyaltyPast": [],
   "heldFees": {
     "five": {
-      "AI": "58444341314272701635",
-      "MEME": "767451882820790833422",
-      "BONER": "323643865818604866861",
-      "MOO": "1658247072717875528248",
-      "INU": "3030791141000896610753"
+      "AI": "67345260253438070627",
+      "MEME": "825370803983945686267",
+      "BONER": "373253838022035902836",
+      "MOO": "1915535501632647514885",
+      "INU": "3316641779688536877894"
     },
-    "xl5": "16188543165894913189173378"
+    "xl5": "18162034446932884414684442"
   }
 }
