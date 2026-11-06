@@ -8,15 +8,15 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-11-06T18:01:01.542Z",
+    "at": "2026-11-06T22:01:00.467Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-11-06T18:01:01.545Z",
+  "updatedAt": "2026-11-06T22:01:00.470Z",
   "lastWindow": {
-    "epoch": 206,
-    "start": "2026-11-06T14:00:00Z",
-    "end": "2026-11-06T18:00:00Z",
+    "epoch": 207,
+    "start": "2026-11-06T18:00:00Z",
+    "end": "2026-11-06T22:00:00Z",
     "status": "skipped",
     "note": "Hold mode: nothing collected or sent; this window's fees stay in par until the daily claim.",
     "carriedInUsd": 0,
