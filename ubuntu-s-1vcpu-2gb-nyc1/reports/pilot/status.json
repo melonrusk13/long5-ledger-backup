@@ -8,17 +8,17 @@
   },
   "alert": null,
   "lastRun": {
-    "at": "2026-11-08T10:00:59.159Z",
+    "at": "2026-11-08T14:01:15.446Z",
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-11-08T10:00:59.161Z",
+  "updatedAt": "2026-11-08T14:01:15.448Z",
   "lastWindow": {
-    "epoch": 216,
-    "start": "2026-11-08T06:00:00Z",
-    "end": "2026-11-08T10:00:00Z",
+    "epoch": 217,
+    "start": "2026-11-08T10:00:00Z",
+    "end": "2026-11-08T14:00:00Z",
     "status": "skipped",
-    "note": "Hold mode: nothing collected or sent; this window's fees stay in par until the daily claim.",
+    "note": "Hold mode: daily claim — par's fees collected into the Rewards wallet and held (not split, nothing sent).",
     "carriedInUsd": 0,
     "carriedOutUsd": 0
   },
