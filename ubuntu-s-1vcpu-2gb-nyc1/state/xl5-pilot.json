@@ -1,7 +1,84 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": null,
+  "inFlight": {
+    "window": {
+      "start": 1794218400,
+      "end": 1794232800
+    },
+    "epoch": 223,
+    "startedAt": "2026-11-09T14:00:42.346Z",
+    "balancesBefore": {
+      "AI": "103827483723724132511",
+      "MEME": "988615229825849597264",
+      "BONER": "601732369906096360368",
+      "MOO": "2607357040071605592508",
+      "INU": "4429082977142823274057",
+      "Xl5": "25065233982507203236112997"
+    },
+    "holdClaim": true,
+    "steps": [
+      {
+        "id": "collect",
+        "kind": "collect",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 970,
+        "txHash": "0xe6b3fb38ba9e39564b448bb6ae9ceef1bb7a7d2ec38a08217ae1ea6caa71c6b7"
+      },
+      {
+        "id": "claim:AI",
+        "kind": "claim",
+        "asset": "AI",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 971,
+        "txHash": "0xcaa558193c2a7f7f6491033e640f63cd7e786c8d9eaf91baecad0ba15b330b58"
+      },
+      {
+        "id": "claim:MEME",
+        "kind": "claim",
+        "asset": "MEME",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 972,
+        "txHash": "0x55beb6515ba3909ef5ddf642fff68735468cae54fdcf249fcec59200098f15b2"
+      },
+      {
+        "id": "claim:BONER",
+        "kind": "claim",
+        "asset": "BONER",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 973,
+        "txHash": "0x7f568a5e0efca28cada44b109b1ec4e5462d86fba4035dfd8f664e5fffd04add"
+      },
+      {
+        "id": "claim:MOO",
+        "kind": "claim",
+        "asset": "MOO",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 974,
+        "txHash": "0xb4406d6f86f4e544a01bee60f9eedd74fda385620b21e144e81afc0681855476"
+      },
+      {
+        "id": "claim:INU",
+        "kind": "claim",
+        "asset": "INU",
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 975,
+        "txHash": "0xd3de371f89adbddb652ec864a746f1cf65b13672562c90f71d1654160bd291ef"
+      },
+      {
+        "id": "claim:Xl5",
+        "kind": "claim",
+        "asset": "Xl5",
+        "status": "planned"
+      }
+    ]
+  },
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
