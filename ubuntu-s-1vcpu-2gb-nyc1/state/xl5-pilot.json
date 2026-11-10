@@ -1,7 +1,69 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": null,
+  "inFlight": {
+    "window": {
+      "start": 1794304800,
+      "end": 1794319200
+    },
+    "epoch": 229,
+    "startedAt": "2026-11-10T14:00:43.871Z",
+    "balancesBefore": {
+      "AI": "109627639057061132419",
+      "MEME": "1043646084183131223084",
+      "BONER": "617555269658555551241",
+      "MOO": "2654819820899295709785",
+      "INU": "5122504859202708828605",
+      "Xl5": "26673616371483765428258261"
+    },
+    "holdClaim": true,
+    "steps": [
+      {
+        "id": "collect",
+        "kind": "collect",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 977,
+        "txHash": "0xd549816c689608ccb1a58c8707f4e3585b3816ba5ce57ebef6e7c725e5287156"
+      },
+      {
+        "id": "claim:AI",
+        "kind": "claim",
+        "asset": "AI",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 978,
+        "txHash": "0x8c47a58a21fce48380d6b31b39dbf907fa57b34a9eddf0ae6a3879f52d01015f"
+      },
+      {
+        "id": "claim:MEME",
+        "kind": "claim",
+        "asset": "MEME",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 979,
+        "txHash": "0xd7a8a3a5c336e9ebc80108deef47eacc26e6af359ecb8bdcc0e4a8a90f6f4c9f"
+      },
+      {
+        "id": "claim:INU",
+        "kind": "claim",
+        "asset": "INU",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 980,
+        "txHash": "0x7ef4ff9b266c504401a61b202f9a1747d06f3c40da332eba38f8cf36904780de"
+      },
+      {
+        "id": "claim:Xl5",
+        "kind": "claim",
+        "asset": "Xl5",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 981,
+        "txHash": "0xe9be8f7eeb9029bb8a4cf27b37429745055a42850eabc0ae0a113ec4a7bf109a"
+      }
+    ]
+  },
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
