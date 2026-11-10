@@ -12,11 +12,11 @@
     "outcome": "processed",
     "detail": "1 window(s) settled"
   },
-  "updatedAt": "2026-11-10T18:00:41.509Z",
+  "updatedAt": "2026-11-10T22:00:40.062Z",
   "lastWindow": {
-    "epoch": 230,
-    "start": "2026-11-10T14:00:00Z",
-    "end": "2026-11-10T18:00:00Z",
+    "epoch": 231,
+    "start": "2026-11-10T18:00:00Z",
+    "end": "2026-11-10T22:00:00Z",
     "status": "skipped",
     "note": "Hold mode: nothing collected or sent; this window's fees stay in par until the daily claim.",
     "carriedInUsd": 0,
