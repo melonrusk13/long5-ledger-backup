@@ -1,7 +1,77 @@
 {
   "version": 2,
   "programStart": 1791021600,
-  "inFlight": null,
+  "inFlight": {
+    "window": {
+      "start": 1794391200,
+      "end": 1794405600
+    },
+    "epoch": 235,
+    "startedAt": "2026-11-11T14:00:43.604Z",
+    "balancesBefore": {
+      "AI": "116439902376719480909",
+      "MEME": "1090597237035991651779",
+      "BONER": "617555269658555551241",
+      "MOO": "2654819820899295709785",
+      "INU": "5204373004136117123984",
+      "Xl5": "27453340385595443252839527"
+    },
+    "holdClaim": true,
+    "steps": [
+      {
+        "id": "collect",
+        "kind": "collect",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 982,
+        "txHash": "0xad34c031c525f7d3297a108fadb9b46406c97d56af33fd2b185e3f8eda56fdc6"
+      },
+      {
+        "id": "claim:AI",
+        "kind": "claim",
+        "asset": "AI",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 983,
+        "txHash": "0xa8f55efb7219710554f834b4ecae552b52b60fb6abd9177ca1ac20447053880a"
+      },
+      {
+        "id": "claim:BONER",
+        "kind": "claim",
+        "asset": "BONER",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 984,
+        "txHash": "0xf8a8a6756dd07a81266811049952e1620587563445bc1568dce0d01236e05338"
+      },
+      {
+        "id": "claim:MOO",
+        "kind": "claim",
+        "asset": "MOO",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 985,
+        "txHash": "0x45d509d3564b8c1404e6f28df289651e16374664e1d5032a987151132f7df3a5"
+      },
+      {
+        "id": "claim:INU",
+        "kind": "claim",
+        "asset": "INU",
+        "status": "done",
+        "attempts": 1,
+        "nonce": 986,
+        "txHash": "0x119a4188f12d5288dafe456cd3c8980fc7aeade9355c6ce115bbe46b05127846"
+      },
+      {
+        "id": "claim:Xl5",
+        "kind": "claim",
+        "asset": "Xl5",
+        "status": "sending",
+        "attempts": 1,
+        "nonce": 987
+      }
+    ]
+  },
   "unexpectedInflow": {},
   "closed": null,
   "capBlockedStreak": 0,
